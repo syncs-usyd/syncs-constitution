@@ -1,5 +1,5 @@
 RST2XETEX ?= rst2xetex
-RST2XETEX_OPTS = --compound-enumerators --section-prefix-for-enumerators --section-enumerator-separator=. --stylesheet=parskip
+RST2XETEX_OPTS =
 
 constitution.pdf: constitution.tex
 	xelatex $^
