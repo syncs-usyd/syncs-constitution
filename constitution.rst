@@ -1,6 +1,8 @@
 Constitution of the Sydney Computing Society (SYNCS)
 ====================================================
 
+.. header:: Sydney Computing Society (SYNCS) Constitution
+
 .. contents:: Table of Contents
 
 .. sectnum::
@@ -8,6 +10,10 @@ Constitution of the Sydney Computing Society (SYNCS)
 .. raw:: latex
 
   \pagebreak
+
+  \fancyhead{} % reset
+  \fancyhead[L]{\DUheader}
+  \pagestyle{fancy}
 
 Name
 ----
