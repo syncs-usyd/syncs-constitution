@@ -3,6 +3,7 @@ RST2XETEX_OPTS =
 
 constitution.pdf: constitution.tex
 	xelatex $^
+	xelatex $^
 
 constitution.tex: constitution.rst
 	$(RST2XETEX) $(RST2XETEX_OPTS) $^ > $@
