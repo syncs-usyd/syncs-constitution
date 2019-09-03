@@ -1,5 +1,5 @@
-Constitution of the Sydney University Information Technologies Society (SUITS)
-==============================================================================
+Constitution of the Sydney Computing Society (SYNCS)
+====================================================
 
 .. contents:: Table of Contents
 
@@ -12,8 +12,8 @@ Constitution of the Sydney University Information Technologies Society (SUITS)
 Name
 ----
 
-The name of the Society shall be the Sydney University Information
-Technologies Society (SUITS), hereinafter referred to as "the Society".
+The name of the Society shall be the Sydney Computing Society (SYNCS),
+hereinafter referred to as "the Society".
 
 Aims
 ----
