@@ -177,8 +177,8 @@ Duties of Executive Members
 10. The Undergraduate Representative shall:
 
     1. Facilitate communication between the undergraduate students of
-       the School of Information Technologies, the staff of the School
-       of Information Technologies, and the Society;
+       the School of Computer Science, the staff of the School
+       of Computer Science, and the Society;
     2. Coordinate activities with the Event Coordinator, Public
        Relations Officer and other student representatives of the
        Society to promote student participation in Society activities.
@@ -186,8 +186,8 @@ Duties of Executive Members
 11. The Postgraduate Representative shall:
 
     1. Facilitate communication between the postgraduate students of
-       the School of Information Technologies, the staff of the School
-       of Information Technologies, and the Society;
+       the School of Computer Science, the staff of the School
+       of Computer Science, and the Society;
     2. Coordinate activities with the Event Coordinator, Public
        Relations Officer and other student representatives of the
        Society to promote student participation in Society activities.
@@ -195,8 +195,8 @@ Duties of Executive Members
 12. The First Year Representative shall:
 
     1. Facilitate communication between the first year students of the
-       School of Information Technologies, the staff of the School of
-       Information Technologies, and the Society;
+       School of Computer Science, the staff of the School of
+       Computer Science, and the Society;
     2. Coordinate activities with the Event Coordinator, Public
        Relations Officer and other student representatives of the
        Society to promote student participation in Society activities.
@@ -204,8 +204,8 @@ Duties of Executive Members
 13. The International Student Representative shall:
 
     1. Facilitate communication between the international students of
-       the School of Information Technologies, the staff of the
-       School of Information Technologies, and the Society;
+       the School of Computer Science, the staff of the
+       School of Computer Science, and the Society;
     2. Coordinate activities with the Event Coordinator, Public
        Relations Officer and other student representatives of the
        Society to promote student participation in Society activities.
@@ -213,9 +213,8 @@ Duties of Executive Members
 14. The Diversity Representative shall:
 
     1. Facilitate communication between those from diverse groups
-       including the students of the School of Information
-       Technologies, the staff of the School of Information
-       Technologies, and the Society;
+       including the students of the School of Computer Science,
+       the staff of the School of Computer Science, and the Society;
     2. Coordinate activities with the Event Coordinator, Public
        Relations Officer and other student representatives of the
        Society to promote student participation in Society activities.
