@@ -529,8 +529,16 @@ This Constitution was adopted on the 29th March 2019.
 
 President's Signature
 
+.. raw:: latex
+
+  \vspace{24pt}
+
 Andrew Campbell
 
 Secretary's Signature
+
+.. raw:: latex
+
+  \vspace{24pt}
 
 Jasmine He
