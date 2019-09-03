@@ -1,5 +1,5 @@
-Constitution of the Sydney University Information Technologies Society (SUITS)
-==============================================================================
+Constitution of the Sydney Computing Society (SYNCS)
+====================================================
 
 .. contents:: Table of Contents
 
@@ -12,8 +12,8 @@ Constitution of the Sydney University Information Technologies Society (SUITS)
 Name
 ----
 
-The name of the Society shall be the Sydney University Information
-Technologies Society (SUITS), hereinafter referred to as "the Society".
+The name of the Society shall be the Sydney Computing Society (SYNCS),
+hereinafter referred to as "the Society".
 
 Aims
 ----
@@ -463,8 +463,8 @@ Assets and Finances
 
 2. The Society shall maintain a bank account.
 
-3. All payments of the Society shall be by cheque, signed by at least
-   two members of the Executive, one of whom must be the Treasurer.
+3. All payments of the Society shall be by cheque or by Electronic Funds Transfer (EFT),
+   signed by at least two members of the Executive, one of whom must be the Treasurer.
 
 4. The finances of the Society shall be maintained in accordance with
    the C&S Handbook for Treasurers produced by the Clubs & Societies
@@ -484,6 +484,8 @@ Assets and Finances
 7. All events which require financial contribution from the Society
    outside the weekly BBQs or entirely sponsored by a third party
    must be approved and signed off by the Treasurer.
+
+8. Acceptable payment methods to the Society are cash and card.
 
 Dissolution
 -----------
@@ -523,12 +525,12 @@ The Society shall comply with all requirements of the University of
 Sydney and the University of Sydney Union for recognition as a
 registered Society of the University of Sydney Union.
 
-This Constitution was adopted on the 6th June 2017.
+This Constitution was adopted on the 29th March 2019.
 
 President's Signature
 
-Daniel Dickinson
+Andrew Campbell
 
 Secretary's Signature
 
-Deanna Arora
+Jasmine He
