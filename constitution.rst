@@ -486,6 +486,8 @@ Assets and Finances
    outside the weekly BBQs or entirely sponsored by a third party
    must be approved and signed off by the Treasurer.
 
+8. Acceptable payment methods to the Society are cash and card.
+
 Dissolution
 -----------
 
