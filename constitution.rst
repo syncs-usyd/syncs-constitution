@@ -464,8 +464,8 @@ Assets and Finances
 
 2. The Society shall maintain a bank account.
 
-3. All payments of the Society shall be by cheque, signed by at least
-   two members of the Executive, one of whom must be the Treasurer.
+3. All payments of the Society shall be by cheque or by Electronic Funds Transfer (EFT),
+   signed by at least two members of the Executive, one of whom must be the Treasurer.
 
 4. The finances of the Society shall be maintained in accordance with
    the C&S Handbook for Treasurers produced by the Clubs & Societies
