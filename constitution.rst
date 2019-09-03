@@ -92,13 +92,13 @@ The Executive
    9. An Information Technology Event Coordinator
    10. And up to a further seven Executive Members, comprising:
 
-      1. An additional Industry Liaison
-      2. An additional Information Technology Event Coordinator
-      3. An Undergraduate Representative
-      4. A Postgraduate Representative
-      5. A First Year Representative
-      6. An International Student Representative
-      7. A Diversity Representative
+       1. An additional Industry Liaison
+       2. An additional Information Technology Event Coordinator
+       3. An Undergraduate Representative
+       4. A Postgraduate Representative
+       5. A First Year Representative
+       6. An International Student Representative
+       7. A Diversity Representative
 
 2. The Executive shall have power to manage the Society in accordance
    with the Constitution.
