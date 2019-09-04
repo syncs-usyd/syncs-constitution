@@ -1,4 +1,4 @@
-RST2XETEX ?= rst2xetex
+RST2XETEX ?= rst2xetex.py
 RST2XETEX_OPTS = --no-section-numbering
 
 constitution.pdf: constitution.tex
