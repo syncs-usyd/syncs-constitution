@@ -1,0 +1,25 @@
+name: Make PDF
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Install dependencies
+      run: |
+        sudo apt-get install -y --no-install-recommends \
+          python3-docutils \
+          texlive-xetex \
+          texlive-fonts-recommended \
+          fonts-linuxlibertine \
+          fonts-dejavu-core
+    - name: make
+      run: |
+        make RST2XETEX=rst2xetex
+    - uses: actions/upload-artifact@master
+      with:
+        name: constitution
+        path: constitution.pdf
