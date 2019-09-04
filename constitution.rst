@@ -60,18 +60,19 @@ Membership
 
 1. The classes of annual membership shall be:
 
-   1. | Ordinary membership
-      | All members of the University of Sydney Union shall be
-        eligible for Ordinary Membership of the Society. Any Ordinary
-        Member shall hold one vote at all meetings and elections of
-        the Society at which they are present.
+   1. Ordinary membership
 
-   2. | Associate membership
-      | Persons other than those who qualify for Ordinary Membership
-        may have Associate Membership conferred upon them by an
-        Ordinary Meeting of the Society. Associate Members are not
-        eligible to hold Executive positions, vote in elections or
-        vote at meetings of the Society.
+      All members of the University of Sydney Union shall be
+      eligible for Ordinary Membership of the Society. Any Ordinary
+      Member shall hold one vote at all meetings and elections of
+      the Society at which they are present.
+
+   2. Associate membership
+
+      Persons other than those who qualify for Ordinary Membership may
+      have Associate Membership conferred upon them by an Ordinary Meeting
+      of the Society. Associate Members are not eligible to hold Executive
+      positions, vote in elections or vote at meetings of the Society.
 
 2. Upon payment of a subscription fee, a person shall be deemed an
    Ordinary Member or Associate Member of the Society and henceforth
