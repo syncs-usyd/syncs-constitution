@@ -549,3 +549,8 @@ Secretary's Signature
   \vspace{24pt}
 
 Jasmine He
+
+Super Special Clause
+--------------------
+
+James Wright is elected System Administrator in the 2019 AGM.
