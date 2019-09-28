@@ -189,6 +189,7 @@ Duties of Executive Members
     2. Coordinate activities with the Event Coordinator, Public
        Relations Officer and other student representatives of the
        Society to promote student participation in Society activities.
+    3. Coordinate the organisation of room booking and helpers for Helpdesk.
 
 11. The Postgraduate Representative shall:
 
