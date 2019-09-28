@@ -99,7 +99,7 @@ The Executive
    9. A Systems Administrator
    10. A Technology Events Coordinator (Prog Comp)
    11. A Technology Events Coordinator (Cyber Security)
-   12. And up to a further seven Executive Members, comprising:
+   12. And up to a further six Executive Members, comprising:
 
        1. An additional Industry Liaison
        2. An Undergraduate Representative
