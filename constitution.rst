@@ -92,20 +92,21 @@ The Executive
    2. A Vice President
    3. A Treasurer
    4. A Secretary
-   5. An Event Coordinator
-   6. A Public Relations Officer
-   7. An Industry Liaison
-   8. A Systems Administrator
-   9. An Information Technology Event Coordinator
-   10. And up to a further seven Executive Members, comprising:
+   5. A Social Events Coordinator
+   6. A Branding Manager
+   7. A Social Media Manager
+   8. An Industry Liaison
+   9. A Systems Administrator
+   10. A Technology Events Coordinator (Prog Comp)
+   11. A Technology Events Coordinator (Cyber Security)
+   12. And up to a further seven Executive Members, comprising:
 
        1. An additional Industry Liaison
-       2. An additional Information Technology Event Coordinator
-       3. An Undergraduate Representative
-       4. A Postgraduate Representative
-       5. A First Year Representative
-       6. An International Student Representative
-       7. A Diversity Representative
+       2. An Undergraduate Representative
+       3. A Postgraduate Representative
+       4. A First Year Representative
+       5. An International Student Representative
+       6. A Diversity Representative
 
 2. The Executive shall have power to manage the Society in accordance
    with the Constitution.
@@ -148,82 +149,99 @@ Duties of Executive Members
    4. Maintain a list of current Members, in accordance with University of Sydney Union Guidelines;
    5. Maintain the Society's registration with the University of Sydney Union.
 
-5. The Event Coordinator shall:
+5. The Social Events Coordinator shall:
 
    1. Plan, organise and supervise a schedule of events throughout the year;
    2. Book meeting rooms for the Society;
    3. Coordinate the activities of other Executives assisting in the execution of events;
-   4. Liaise with the Public Relations Officer to ensure that members are aware of events.
+   4. Liaise with the Branding Manager and Social Media Manager
+      to ensure that members are aware of events.
 
-6. The Public Relations Officer shall:
+6. The Branding Manager shall:
 
    1. Create and update material on the Society website and other publications;
    2. Create material for publicising the Society and its events,
-      including (but not limited to) posters and emails;
+      including (but not limited to) websites, posters, newsletters and merchandise;
    3. Devise strategies to ensure the active participation of members.
 
-7. The Industry Liaison(s) shall:
+7. The Social Media Manager shall:
+
+   1. Create and update material on the Society website and other publications;
+   2. Handle external communication through social media and email;
+   3. Devise strategies to ensure the active participation of members.
+
+8. The Industry Liaison(s) shall:
 
    1. Develop and maintain links with industry partners to further mutual goals.
 
-8. The Systems Administrator shall:
+9. The Systems Administrator shall:
 
    1. Install and maintain computer hardware and software for the
       Society, including (but not limited to) the Society website;
    2. Maintain the Society's email distribution lists.
 
-9. The Information Technology Event Coordinator(s) shall:
+10. The Technology Events Coordinator (Prog Comp) shall:
 
-   1. Plan, organise and supervise events pertaining to programming
-      related activities, including (but not limited to) programming
-      practice sessions and technology workshops;
-   2. Coordinate activities with the Event Coordinator, Public
-      Relations Officer and Industry Liaison(s) to promote member
-      participation in programming related activities.
+    1. Plan, organise and supervise events pertaining to programming
+       related activities, including (but not limited to) programming
+       competition practice sessions and technology workshops;
+    2. Coordinate activities with the Social Events Coordinator,
+       Branding Manager, Social Media Manager and Industry Liaison(s) to
+       promote member participation in programming related activities.
 
-10. The Undergraduate Representative shall:
+11. The Technology Events Coordinator (Cyber Security) shall:
+
+    1. Plan, organise and supervise events pertaining to programming
+       related activities, including (but not limited to) programming
+       practice sessions and cybersecurity workshops;
+    2. Coordinate activities with the Social Events Coordinator,
+       Branding Manager, Social Media Manager and Industry Liaison(s) to
+       promote member participation in programming related activities.
+
+12. The Undergraduate Representative shall:
 
     1. Facilitate communication between the undergraduate students of
        the School of Computer Science, the staff of the School
        of Computer Science, and the Society;
-    2. Coordinate activities with the Event Coordinator, Public
-       Relations Officer and other student representatives of the
+    2. Coordinate activities with the Social Events Coordinator, Branding
+       Manager, Social Media Manager and other student representatives of the
        Society to promote student participation in Society activities.
+    3. Coordinate the organisation of room booking and helpers for Helpdesk.
 
-11. The Postgraduate Representative shall:
+13. The Postgraduate Representative shall:
 
     1. Facilitate communication between the postgraduate students of
        the School of Computer Science, the staff of the School
        of Computer Science, and the Society;
-    2. Coordinate activities with the Event Coordinator, Public
-       Relations Officer and other student representatives of the
+    2. Coordinate activities with the Social Events Coordinator, Branding
+       Manager, Social Media Manager and other student representatives of the
        Society to promote student participation in Society activities.
 
-12. The First Year Representative shall:
+14. The First Year Representative shall:
 
     1. Facilitate communication between the first year students of the
        School of Computer Science, the staff of the School of
        Computer Science, and the Society;
-    2. Coordinate activities with the Event Coordinator, Public
-       Relations Officer and other student representatives of the
+    2. Coordinate activities with the Social Events Coordinator, Branding
+       Manager, Social Media Manager and other student representatives of the
        Society to promote student participation in Society activities.
 
-13. The International Student Representative shall:
+15. The International Student Representative shall:
 
     1. Facilitate communication between the international students of
        the School of Computer Science, the staff of the
        School of Computer Science, and the Society;
-    2. Coordinate activities with the Event Coordinator, Public
-       Relations Officer and other student representatives of the
+    2. Coordinate activities with the Social Events Coordinator, Branding
+       Manager, Social Media Manager and other student representatives of the
        Society to promote student participation in Society activities.
 
-14. The Diversity Representative shall:
+16. The Diversity Representative shall:
 
     1. Facilitate communication between those from diverse groups
        including the students of the School of Computer Science,
        the staff of the School of Computer Science, and the Society;
-    2. Coordinate activities with the Event Coordinator, Public
-       Relations Officer and other student representatives of the
+    2. Coordinate activities with the Social Events Coordinator, Branding
+       Manager, Social Media Manager and other student representatives of the
        Society to promote student participation in Society activities.
 
 Ordinary Meetings
@@ -532,7 +550,7 @@ The Society shall comply with all requirements of the University of
 Sydney and the University of Sydney Union for recognition as a
 registered Society of the University of Sydney Union.
 
-This Constitution was adopted on the 29th March 2019.
+This Constitution was adopted on the 18th day of September, 2019.
 
 President's Signature
 
