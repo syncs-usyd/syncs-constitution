@@ -2,7 +2,7 @@ RST2XETEX ?= rst2xetex.py
 RST2XETEX_OPTS = --no-section-numbering
 
 constitution.pdf: constitution.tex
-	latexmk -pdfxe $^
+	latexmk -xelatex $^
 
 constitution.tex: constitution.rst
 	$(RST2XETEX) $(RST2XETEX_OPTS) $^ > $@
