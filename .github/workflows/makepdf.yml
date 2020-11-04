@@ -12,7 +12,7 @@ jobs:
       run: |
         sudo apt-get install -y --no-install-recommends \
           python3-docutils \
-          texlive-xetex \
+          texlive-xetex latexmk \
           texlive-fonts-recommended \
           fonts-linuxlibertine \
           fonts-dejavu-core
