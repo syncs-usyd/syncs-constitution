@@ -101,7 +101,7 @@ The Executive
    11. A Technology Events Coordinator (Cyber Security)
    12. And up to a further seven Executive Members, comprising:
 
-       1. Two additional Industry Liaison
+       1. Two additional Industry Liaisons
        2. An Undergraduate Representative
        3. A Postgraduate Representative
        4. A First Year Representative
@@ -461,7 +461,7 @@ Elections
     before the term of office has expired.)
 
 Vacancies and Dismissals
----------
+------------------------
 
 1. Vacant Executive positions may be filled at a General Meeting
    following the ordinary procedures for election as per Section 9
