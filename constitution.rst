@@ -101,7 +101,7 @@ The Executive
    11. A Technology Events Coordinator (Cyber Security)
    12. And up to a further seven Executive Members, comprising:
 
-       1. An additional Industry Liaison
+       1. Two additional Industry Liaisons
        2. An Undergraduate Representative
        3. A Postgraduate Representative
        4. A First Year Representative
@@ -244,6 +244,19 @@ Duties of Executive Members
        Manager, Social Media Manager and other student representatives of the
        Society to promote student participation in Society activities.
 
+17. The Executive, subject to this Constitution must not engage in conduct
+    that may reasonably be deemed destructive to the Society. All Executives
+    of the Society shall be subject to the following conditions:
+
+    1. When Executive members are participating, observing, or otherwise
+       present at a public event they are representing the Society and
+       must act in a respectful manner throughout the entire event.
+    2. All Executive members must not engage in any behaviour that may
+       reasonably be deemed bullying, harassment, or discrimination.
+    3. All Executive members must not share proprietary information with
+       other organisations or the general public without prior approval
+       by the aforementioned panel under Clause 15.2.
+
 Ordinary Meetings
 -----------------
 
@@ -341,10 +354,6 @@ General Meetings
       Clause 4.3 of the Constitution, provided that the Executive
       Member is given reasonable right of reply;
    4. Dissolving the Society.
-
-8. Vacant executive positions may be filled at a General Meeting
-   following the ordinary procedures for election as per Section 9 of
-   this constitution
 
 Annual General Meeting
 ----------------------
@@ -451,6 +460,35 @@ Elections
     Executive Member is dismissed from the Executive or resigns
     before the term of office has expired.)
 
+Vacancies and Dismissals
+------------------------
+
+1. Vacant Executive positions may be filled at a General Meeting
+   following the ordinary procedures for election as per Section 9
+   of this constitution.
+
+2. A vote of no confidence can be raised against any Executive member
+   by either of the following party:
+
+   1. no less than half of all current Executive members;
+   2. no less than 3 Executive members among the President,
+      Vice President, Treasurer, and Secretary.
+
+3. A vote of no confidence can be raised automatically against
+   Executive members who cannot show that they have attended any events
+   or regular Executive meetings of the Society in the past 3 months.
+
+4. The Executive member under scrutiny must be given at least
+   7 clear days’ notice about the motion for their dismissal, and
+   allowed to appeal against their dismissal before the vote.
+
+5. If multiple votes of no confidence are raised simultaneously,
+   they shall be executed in the order of the Executive positions
+   outlined in Clause 4.1.
+
+6. A two-thirds majority vote of the Executive is necessary to
+   dismiss the Executive member under scrutiny.
+
 Alteration to the Constitution
 ------------------------------
 
@@ -550,7 +588,7 @@ The Society shall comply with all requirements of the University of
 Sydney and the University of Sydney Union for recognition as a
 registered Society of the University of Sydney Union.
 
-This Constitution was adopted on the 18th day of September, 2019.
+This Constitution was adopted on the 14th day of November, 2020.
 
 President's Signature
 
@@ -558,7 +596,7 @@ President's Signature
 
   \vspace{24pt}
 
-Andrew Campbell
+Sonia Kang
 
 Secretary's Signature
 
@@ -566,4 +604,4 @@ Secretary's Signature
 
   \vspace{24pt}
 
-Jasmine He
+Barbara Wang
