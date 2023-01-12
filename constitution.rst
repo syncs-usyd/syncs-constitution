@@ -52,11 +52,11 @@ Membership
 
    1. Ordinary membership
 
-      All current students enrolled in the University are eligible for Ordinary Membership of the Society. Any current Ordinary Member will be eligible to hold Executive positions and hold one vote at all meetings and elections of the Society at which they are present, except as provided in sub clause 9.3 of this Constitution. 
+      1. All current students enrolled in the University are eligible for Ordinary Membership of the Society. Any current Ordinary Member will be eligible to hold Executive positions and hold one vote at all meetings and elections of the Society at which they are present, except as provided in sub clause 9.3 of this Constitution. 
 
    2. Associate membership
 
-      Persons other than those who qualify for Ordinary Membership may have Associate Membership conferred upon them by an Executive Meeting of the Society. Associate Members are not eligible to hold Executive positions, vote in elections or vote at meetings of the Society. 
+      2. Persons other than those who qualify for Ordinary Membership may have Associate Membership conferred upon them by an Executive Meeting of the Society. Associate Members are not eligible to hold Executive positions, vote in elections or vote at meetings of the Society. 
 
 2. Members of the Society must not engage in any behaviour that may be deemed bullying, harassment, or discrimination under the Bullying, Harassment and Discrimination Prevention Policy 2015 of the University.
 
@@ -88,7 +88,7 @@ Membership
 
       2. that a member of the Society has refused or neglected to comply with sub clause 3.2 of this Constitution. 
 
-   2. The executive committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature. 
+   2. The executive committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature.
    
    3. The executive committee may decide to deal with a complaint and: 
       
@@ -118,8 +118,8 @@ The Executive
    7. A Social Media Manager
    8. An Industry Liaison
    9. A Systems Administrator
-   10. A Technology Events Coordinator
-   11. And up to a further ten Executive Members, comprising:
+   10. A Technology Events Coordinator; and
+   11. Up to a further ten Executive Members, comprising:
 
       1. An additional Social Events Coordinator
       2. Two additional Industry Liaisons
@@ -162,7 +162,11 @@ Duties of Executive Members
 
    2. provide a written report to the Annual General Meeting; 
 
-   3. plan the activities of the Society in consultation with the Executive; d. liaise with the Executive and any Subcommittees formed by the Society; and e. provide and ensure an appropriate handover, including all relevant documents and materials, to the following Executive. 
+   3. plan the activities of the Society in consultation with the Executive;  
+
+   4. liaise with the Executive and any Subcommittees formed by the Society; and    
+
+   5. provide and ensure an appropriate handover, including all relevant documents and materials, to the following Executive.
 
 2. The Vice President will: 
 
@@ -174,7 +178,7 @@ Duties of Executive Members
 
    2. present to the Annual General Meeting of the Society a report detailing the financial activity and status of the Society; and 
 
-   3. provide and ensure an appropriate handover, including all relevant documents and materials, to the following Executive. 
+   3. provide and ensure an appropriate handover, including all relevant documents and materials, to the following Executive.
 
 4. The Secretary will: 
 
@@ -188,7 +192,7 @@ Duties of Executive Members
 
    5. maintain a list of current members and associates; and 
    
-   6. provide and ensure an appropriate handover, including all relevant documents and materials, to the following executive. 
+   6. provide and ensure an appropriate handover, including all relevant documents and materials, to the following executive.
 
 5. The Social Events Coordinator(s) will: 
 
@@ -196,9 +200,12 @@ Duties of Executive Members
 
    2. book meeting rooms for the Society when required; 
 
-   3. coordinate the activities of other Executives assisting in the execution of events; and d. liaise with the Branding Manager and Social Media Manager to ensure that members are aware of events. 
+   3. coordinate the activities of other Executives assisting in the execution of events; and   
+
+   4. liaise with the Branding Manager and Social Media Manager to ensure that members are aware of events. 
 
 6. The Branding Manager will: 
+
    1. create and update materials on the Society website and other publications; 
 
    2. create materials for publicising the Society and its events, including but not limited to websites, posters, newsletters and merchandise; and 
@@ -220,7 +227,9 @@ Duties of Executive Members
    2. liaise with the Social Events Coordinators and Technology Events Coordinators to establish and organise events involving industry partners of the Society. 
 
 9. The Systems Administrator(s) will:
+
    1. install and maintain computer hardware and software for the Society, including but not limited to the Society website; and
+
    2. maintain the email distribution lists of the Society.
 
 10. The Technology Events Coordinator(s) will: 
@@ -304,340 +313,295 @@ The Subcommittees
 
    3. a written resignation letter by the Subcommittee Member to their Director. 
 
-6. Any act or thing done or suffered by a member of the Subcommittees acting in the exercise of a delegation by the Executive has the same force and effect as it would have if it had been done or suffered by the Executive. 
-
-Ordinary Meetings
------------------
-
-1. The Society shall hold an Ordinary Meeting at least once every six
-   (6) weeks during semester (teaching period, Weeks 1-13).
-
-2. Ordinary Meetings shall be called by the President, Secretary or
-   Vice-President, or by the Secretary forthwith upon receipt of the
-   written application of at least twenty (20) Ordinary Members of
-   the Society.
-
-3. At least three (3) days notice of the time and place of an
-   Ordinary Meeting shall be given in one of the recognised
-   publications of the University of Sydney Union and (if possible)
-   on the Society website, and (if possible) by a mail-out to all
-   Members. (A mail-out is understood to include communication by
-   e-mail.)
-
-4. The President shall chair Ordinary Meetings. In the absence of the
-   President, another Executive Member shall chair the Meeting.
-
-5. Quorum at Ordinary Meetings shall be five (5) Ordinary Members if
-   the Society's current membership is no greater than seventy (70)
-   Ordinary Members, or ten (10) Ordinary Members if the Society's
-   membership is greater than seventy (70) Ordinary Members. Quorum
-   must include not less than three (3) Executive Members.
-
-6. The Agenda for an Ordinary Meeting shall include:
-
-   1. Apologies and leaves of absence
-   2. Minutes of the previous meeting
-   3. Correspondence
-   4. Reports of the Executive Members
-   5. General Business
-
-7. An Ordinary Meeting of the Society has the power to carry motions
-   relating to the affairs of the Society by a simple majority vote
-   of those members present and voting, including:
-
-   1. Giving direction to the Executive;
-   2. Determining the use of the finances and other assets of the Society;
-   3. Instituting Committees for any purpose of the Society and
-      co-opting Society members onto any Committee;
-   4. Dismissing Executive Members under Clause 4.3 of the Constitution.
+6. Any act or thing done or suffered by a member of the Subcommittees acting in the exercise of a delegation by the Executive has the same force and effect as it would have if it had been done or suffered by the Executive.
 
 General Meetings
 ----------------
 
-1. The Society shall hold General Meetings as required during
-   semester (teaching period, Weeks 1-13).
+1. The Society will hold General Meetings as required during semester (teaching period, Weeks 1-13) of the University. 
 
-2. The Secretary may at any time, for any worthy purpose, call a
-   General Meeting, and shall do so forthwith upon receipt of the
-   written application of twenty percent (20%) of Ordinary Members of
-   the Society stating the purposes for which the meeting is called.
-   The business debated at a General Meeting shall be confined to the
-   purposes named in the notice.
+2. The Secretary may at any time, for any worthy purpose, call a General Meeting, and must also do so forthwith upon receipt of the written application, of at least 5% of the total number of members of the Society, which states the purposes for which the meeting is called and is signed by all members making the requisition. The business debated at a General Meeting must be confined to the purposes named in the meeting notice. 
 
-3. Except as provided in Clause 9 and 10, the Secretary shall give at
-   least seven (7) days' notice of the time and place of a General
-   Meeting through one of the recognised publications of the
-   University of Sydney Union and (if possible) on the Society
-   website, and (if possible) by a mail-out to all Members. (A
-   mail-out is understood to include communication by e-mail.)
+   1. Notice of a requested General Meeting must be provided to members: 
+   
+      1. in writing; 
 
-4. Quorum at General Meetings shall be the lesser of one-third of the
-   Ordinary Members or fifteen (15) Ordinary Members. If within
-   thirty (30) minutes from the time appointed for the Meeting a
-   quorum is not present, the meeting shall be dissolved.
+      2. no later than fourteen (14) clear days after a request under sub clause 7.2 of this Constitution; and 
 
-5. The procedure at all meetings shall follow the normal rules of debate.
+      3. consistently with requirements for an Annual General Meeting 
 
-6. The agenda for a General Meeting shall include:
+3. The Secretary must give at least seven (7) clear days' written notice of the time, date, venue, and the nature of the business proposed to be transacted at the General Meeting through one of the recognised media platforms of the Society. 
 
-   1.  Opening and welcome
-   2.  Apologies and leaves of absence
-   3.  Minutes of the previous meeting
-   4.  Business arising from the minutes
-   5.  Correspondence
-   6.  Motions on notice
-   7.  Reports of Executive Members
-   8.  Other reports
-   9.  General business
-   10. Date of the next meeting
+4. Quorum at General Meetings will be the lesser number of one-third of the total membership of the Society or fifteen (15) Ordinary Members. 
 
-7. A General Meeting of the Society has the same powers as an
-   Ordinary Meeting, and may also carry the following motions on
-   notice relating to the affairs of the Society by a two-thirds
-   majority vote of those members present and voting:
+   1. If, after thirty (30) minutes from the advertised starting time for a General Meeting, a quorum has not been achieved, the meeting will be adjourned to the same time and place one week later. 
 
-   1. Repealing motions and the effect of motions carried at an
-      Ordinary Meeting;
-   2. Amending the Constitution;
-   3. Dismissing Executive Members for reasons other than that in
-      Clause 4.3 of the Constitution, provided that the Executive
-      Member is given reasonable right of reply;
-   4. Dissolving the Society.
+   2. Regardless of how many members attend the reconvened meeting, it will be considered to be quorate and may proceed accordingly. 
+
+5. The agenda for a General Meeting may include: 
+
+   1. opening and welcome; 
+
+   2. apologies and leaves of absence; 
+
+   3. minutes of the previous meeting; 
+
+   4. business arising from the minutes; 
+
+   5. correspondence; 
+
+   6. motions on notice; 
+
+   7. reports of Executive Members; 
+
+   8. other reports; 
+
+   9. general business; and 
+
+   10. date of the next meeting.
+
+7. A General Meeting of the Society has the same powers as an Executive Meeting, and may also carry the following motions on notice relating to the affairs of the Society by a special resolution where a special resolution is one which is passed by at least 70% of those present and entitled to vote at the meeting: 
+
+   1. repealing motions and the effect of motions carried at an Executive Meeting; 
+
+   2. amending the Constitution; 
+
+   3. dismissing Executive Members for reasons other than that in sub clause 4.7 and clause 10 of this Constitution, provided that the Executive Member is given reasonable right of reply; 
+
+   4. dissolving the society. 
 
 Annual General Meeting
 ----------------------
 
-1. The Society shall hold an Annual General Meeting annually in the
-   month of September.
+1. The Society must hold an Annual General Meeting annually in the month of September or a different time during semester 2 in the same academic year of the University as the Executive sees fit, for the following purposes: 
 
-2. The Annual General Meeting shall be convened for the following purposes:
+   1. to receive a report and statement of accounts for the preceding financial period; 
 
-   1. To receive a report and statement of accounts for the preceding
-      financial period;
-   2. To elect an Executive for the ensuing term;
-   3. To transact any other business, notice of which shall be duly
-      submitted to the Secretary.
+   2. to elect the Executive for the ensuing term; and 
 
-3. The Secretary shall give at least fourteen (14) days' notice of
-   the time and place of the Annual General Meeting in one of the
-   recognised publications of the University of Sydney Union and (if
-   possible) on the Society website, and (if possible) by a mail-out
-   to all Members. (A mail-out is understood to include communication
-   by e-mail.)
+   3. to transact any other business, notice of which must be duly submitted to the Secretary. 
 
-4. The Annual General Meeting shall be held between 9am and 9pm at a
-   place on a campus of the University of Sydney during semester
-   (teaching period, Weeks 1-13). The Annual General Meeting shall be
-   chaired by the President or an Executive Member not standing for
-   election to any position.
+2. The Secretary must provide members with at least fourteen (14) clear days' written notice of the Annual General Meeting in one of the recognised media platforms of the Society. The notice must include: 
 
-5. Quorum at the Annual General Meeting shall be the lesser of
-   one-third of the Ordinary Members or fifteen (15) Ordinary
-   Members.
+   1. the day on which nominations open, which day must be at least fourteen (14) clear days before the day of the elections; 
 
-6. The agenda for the Annual General Meeting shall include:
+   2. the day and time on which nominations close, which must be no later than the time of the elections; 
 
-   1. Opening and welcome
-   2. Apologies and leaves of absence
-   3. Minutes of the previous meeting
-   4. Business arising from the minutes
-   5. Correspondence
-   6. Motions on notice
-   7. Annual Reports
+   3. the time, date and venue of the election; 
 
-      1. President
-      2. Treasurer
-      3. Secretary
-      4. Other Executive Members
+   4. that only Ordinary Members are eligible to be candidates for election, except as provided in sub clause 9.3 of this Constitution; and 
 
-   8. Election of the Executive
-   9. General business
+   5. that only Ordinary Members who are present at the meeting are eligible to vote.
+
+3. Any member wishing to move a motion at the Annual General Meeting must give the Secretary fourteen (14) clear days’ written notice of the proposed motion. 
+
+4. The Annual General Meeting must be held between 9am and 9pm during semester (teaching period, Weeks 1-13) of the University: 
+
+   1. at a place on campus of the University; or 
+
+   2. over a video-conferencing software with anonymous polling feature determined by the Secretary; or 
+
+   3. at another place determined at an Annual General Meeting or other General Meeting.
+
+5. The Annual General Meeting will be chaired by the President or an Executive Member not standing for election to any Executive position at this meeting.
+
+6. Members may attend an Annual General Meeting or other General Meetings by use of any technology which provides a reasonable opportunity for all members to participate.
+
+7. Quorum at the Annual General Meeting will be the lesser number of one-third of the total membership of the Society or fifteen (15) Ordinary Members. If within thirty (30) minutes from the time appointed for the meeting a quorum is not present, the meeting will be dissolved.
+
+8. The agenda for the Annual General Meeting may include: 
+
+   1. opening and welcome; 
+
+   2. apologies and leaves of absence; 
+
+   3. minutes of the previous meeting; 
+
+   4. business arising from the minutes; 
+
+   5. correspondence; 
+
+   6. motions on notice; 
+
+   7. annual reports by: 
+
+      1. the President; 
+
+      2. the Treasurer; 
+
+      3. the Secretary; and 
+
+      4. other Executive Members as the Executive sees fit. 
+
+   8. Election of the Executive; and 
+
+   9. General business. 
 
 Elections
 ---------
 
-1.  The Executive, barring the First Year Representative,
-    International Student Representative and Diversity Representative
-    shall be elected at the Annual General Meeting in the month of
-    September each year.
+1. The Executive must be elected at the Annual General Meeting at a time stated in sub clause 8.1 of this Constitution. 
 
-2.  The First Year Representative, International Student
-    Representative and Diversity Representative shall be elected at
-    the first General Meeting held in the new year.
+2. The First Year Representative, International Student Representative and Diversity Representative must be elected at the first General Meeting held in the new year. 
 
-3.  Only Ordinary Members shall be eligible to be candidates for
-    election or to vote in the election.
+3. A current Ordinary Member must: 
 
-4.  The term of the Executive shall commence immediately following
-    the close of the Annual Election Meeting and conclude at the
-    close of the Annual Election Meeting in the following year.
+   1. be an undergraduate student of the University to be eligible to be a candidate for the Undergraduate Representative; 
 
-5.  The Secretary shall give at least fourteen (14) days' notice of
-    the time and place of the annual elections in one of the
-    recognised publications of the University of Sydney Union and (if
-    possible) on the Society website, and (if possible) by a mail-out
-    to all Members. (A mail-out is understood to include
-    communication by e-mail.) The notice shall state:
+   2. be a postgraduate student of the University to be eligible to be a candidate for the Postgraduate Representative; 
 
-    1. The day on which nominations open, which day shall be at least
-       fourteen (14) days before the day of the elections;
-    2. The day and time on which nominations close, which shall be no
-       later than the time of the meeting at which the elections are
-       to occur;
-    3. The time, date and venue of the election;
-    4. That only Ordinary Members shall be eligible to be candidates
-       for election or to vote.
+   3. be a first year student of the University to be eligible to be a candidate for the First Year Representative; and 
 
-6.  In order to stand for election, nominees must accept nomination.
+   4. be an international student of the University to be eligible to be a candidate for the International Student Representative; and 
 
-7.  Before an election the Executive shall nominate a suitable
-    person, not being a candidate for election, to act as Returning
-    Officer. The Returning Officer shall be charged with the conduct
-    of the election, and may appoint suitable persons, not being
-    candidates for election, as Deputy Returning Officers.
+   5. have held ordinary membership of the Society for at least fourteen (14) clear days prior to the elections to be eligible to be a candidate for any Executive positions and hold one vote at the elections. 
 
-8.  The Clubs & Societies Manager shall serve as Electoral Arbiter
-    and shall receive any appeals against the decisions of the
-    Returning Officer.
+4. Nominations of candidates for the Executive position(s): 
 
-9.  Voting shall be by secret ballot, and shall be Single
-    Transferable Vote.
+   1. must be open at least seven (7) clear days before the day of the election(s);    
 
-10. The General Body of the Society may, in a General Meeting, elect
-    any Ordinary Member of the Society to fill any casual vacancy
-    that may occur in the Executive. (A casual vacancy occurs when an
-    Executive Member is dismissed from the Executive or resigns
-    before the term of office has expired.)
+   2. must remain open for at least seven (7) clear days after nominations open;    
+
+   3. must close before election of the respective Executive position takes place; and    
+
+   4. must be seconded by two (2) current members of the Society (one of whom must be the nominee themself), and submitted to the Society before election of the respective Executive position takes place, in order for the nominee to be eligible for elections. 
+
+5. Before an election, the Executive must nominate a suitable person, not being a candidate for election, to act as Returning Officer. The Returning Officer: 
+
+   1. will be charged with the conduct of the election; 
+
+   2. may appoint suitable persons, not being candidates for election, as Deputy Returning Officers; and 
+
+   3. must report all election results to an establishing authority of the University, that is: 
+
+      1. an Associate Dean (Student Life); or 
+
+      2. the Pro Vice-Chancellor (Student Life). 
+
+6. The Executive must maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the Returning Officer. 
+
+7. Voting must be by secret ballot, and must be Single Transferable Vote.
+
+   1. Each candidate must reach the quota of votes as determined by the Droop quota for that Executive position. 
+
+   2. If there is a tie for an Executive position between candidates, the candidate who has the most votes at the first stage or at the earliest point in the count where they had unequal votes, will be elected into the Executive position. 
+
+8. Any vacant positions remaining in the Executive after the election(s) are taken to be casual vacancies. 
+
+9. No election results will be effective until approved by an establishing authority of the University. 
 
 Vacancies and Dismissals
 ------------------------
 
-1. Vacant Executive positions may be filled at a General Meeting
-   following the ordinary procedures for election as per Section 9
-   of this constitution.
+1. In the event of a casual vacancy occurring in the membership of the Executive, the Executive may appoint an Ordinary Member of the Society by ordinary resolution to fill the vacancy and the member so appointed is to hold office, subject to this Constitution, until the earlier date of: 
 
-2. A vote of no confidence can be raised against any Executive member
-   by either of the following party:
+   1. the Annual General Meeting next following the date of the appointment; or  
 
-   1. no less than half of all current Executive members;
-   2. no less than 3 Executive members among the President,
-      Vice President, Treasurer, and Secretary.
+   2. a General Meeting which must be held within 28 days of the casual vacancy to elect a new officeholder. 
 
-3. A vote of no confidence can be raised automatically against
-   Executive members who cannot show that they have attended any events
-   or regular Executive meetings of the Society in the past 3 months.
+2. A casual vacancy in the office of a member of the Executive occurs if the member:   
 
-4. The Executive member under scrutiny must be given at least
-   7 clear days’ notice about the motion for their dismissal, and
-   allowed to appeal against their dismissal before the vote.
+   1. dies, or 
 
-5. If multiple votes of no confidence are raised simultaneously,
-   they shall be executed in the order of the Executive positions
-   outlined in Clause 4.1.
+   2. ceases to be a member of the Society, or 
 
-6. A two-thirds majority vote of the Executive is necessary to
-   dismiss the Executive member under scrutiny.
+   3. is or becomes an insolvent under administration within the meaning of the Corporations Act 2001 of the Commonwealth, or 
+
+   4. resigns office by notice in writing given to the secretary, or 
+
+   5. is removed from office under sub clause 4.7 or clause 10 of this Constitution, or 
+
+   6. becomes a mentally incapacitated person, or 
+
+   7. is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months. 
+
+3. A dismissal complaint concerning an Executive Member may be made by any Executive Member to the first Executive Member not involved with the complaint in the following list: the Presidents, Vice President, Treasurer, and the Secretary. A vote of no confidence can be held against the Executive Member concerned if either of the following party unanimously decides to deal with the dismissal complaint: 
+
+   1. no less than half of all current Executive Members; or 
+
+   2. no less than 3 Executive Members among the President, Vice President, Treasurer, and Secretary. 
+
+4. A vote of no confidence will be held automatically against any Executive Member who cannot show that they have attended any events or Executive meetings of the Society in the past 2 month. 
+
+5. The Executive Member under scrutiny must be given at least 7 clear days notice about the reasons for accepting the dismissal complaint against them, the time and location where the vote of no confidence will be held, and allowed for reasonable right of reply before the vote of no confidence is held.
+
+6. If multiple votes of no confidence will be held simultaneously, they will be held in the order of the Executive positions outlined in sub clause 4.1 of this Constitution. 
+
+7. A simple majority vote of the Executive is required to dismiss the Executive Member under scrutiny. 
+
+8. Any Executive Member who believes they have been wrongly dismissed may appeal to an establishing authority of the University who will arrive at the final resolution of the dismissal complaint. 
 
 Alteration to the Constitution
 ------------------------------
 
-1. This Constitution may be amended by a two-thirds majority of those
-   Ordinary Members in attendance at any General Meeting, provided
-   that:
+1. No amendments to this Constitution, including but not limited to changes of name, will be effective until approved by an establishing authority of the University. 
 
-   1. Written notice of proposed changes has been given to the
-      Secretary not less than seven (7) days before such a meeting;
-   2. The said changes do not contravene the University of Sydney or
-      the University of Sydney Union guidelines;
-   3. The Secretary has given at least fourteen (14) days' notice of
-      those proposed changes to all Members through one of the
-      recognised publications of the University of Sydney Union and
-      (if possible) on the Society website, and (if possible) by a
-      mail-out to all Members (a mail-out is understood to include
-      communication by e-mail);
-   4. A copy of the amended constitution, and minutes of the meeting
-      at which the amendments were made, are presented to the Clubs &
-      Societies Manager of the University of Sydney Union within
-      fourteen (14) days of the meeting;
-   5. The amendments are approved by the Clubs & Societies Committee
-      and ratified by the Board of the University of Sydney Union.
-
-2. Constitutional amendments do not become effective until approved
-   by the Clubs & Societies Committee and ratified by the Board of
-   the University of Sydney Union.
+2. Amendments to this constitution may only be made by special resolution at an Annual General Meeting or other General Meetings where a special resolution is one which is passed by at least 70% of those present and entitled to vote at the meeting.
 
 Assets and Finances
 -------------------
 
-1. All property of the Society shall be vested in the Executive, and
-   shall be dealt with in such manner as directed by the Society in
-   an Ordinary Meeting.
+1. The Society must keep financial records as required by the Student Associations Policy 2020 and Student Association Procedures 2021 of the University.
 
-2. The Society shall maintain a bank account.
+2. All assets and property of the Society must be managed consistently with resolutions of the Society in General Meetings. 
 
-3. All payments of the Society shall be by cheque or by Electronic Funds Transfer (EFT),
-   signed by at least two members of the Executive, one of whom must be the Treasurer.
+3. The Society must establish and maintain a bank account. 
 
-4. The finances of the Society shall be maintained in accordance with
-   the C&S Handbook for Treasurers produced by the Clubs & Societies
-   Office of the University of Sydney Union, and submitted for audit
-   by the Clubs & Societies Auditor immediately following the
-   Financial Year End of the Society in the month of June each year.
+4. If funding is provided to the Society by a Faculty or University School, the Society must account for its expenditure of the funds by providing: 
 
-5. Notwithstanding anything contained in this Constitution, all
-   assets and funds of the Society shall be used solely to further
-   the Objects of the Society, and no portion of those funds will be
-   shall be paid or distributed to members of the Society except as
-   compensation for out-of-pocket expenses.
+   1. appropriate receipts; or 
 
-6. The financial year of the Society shall run from the 1st
-   of July to the 30th of June of the following year.
+   2. a University finance statement. 
 
-7. All events which require financial contribution from the Society
-   outside the weekly BBQs or entirely sponsored by a third party
-   must be approved and signed off by the Treasurer.
+5. The Society is not for profit, meaning the assets and fund of the Society will be applied solely in furtherance of the aims of the Society and no portion of those fund may be distributed directly or indirectly to the members of the Society except as bona fide compensation for documented out-of-pocket expenses incurred on behalf of the Society. 
 
-8. Acceptable payment methods to the Society are cash and card.
+6. The financial year of the Society will run from 1 July to 30 June of the following year. 
+
+7. All payments of the Society must be by cheque or by Electronic Funds Transfer (EFT), signed by at least two members of the Executive, one of whom must be the Treasurer. 
+
+8. All events which require financial contribution from the Society or are entirely sponsored by a third party must be approved and signed off by the Treasurer and at least one other member among the President, Vice President and Secretary.
+
+9. Acceptable payment methods to the Society are cash and card.
+
+10. The Society must provide an establishing authority with an annual financial report each year by 31 July. The annual financial report will include those that are specified in sub clause 7(4) of the Student Association Procedures 2021 of the University. 
 
 Dissolution
 -----------
 
-1. The Society may be dissolved by resolution of a two-thirds
-   majority vote of those members present and voting at a General
-   Meeting. If on the dissolution there remain any monies or
-   property, they shall, with the consent of the Clubs & Societies
-   Office, be transferred to a cultural, charitable or educational
-   organization as the Society in a General Meeting may resolve.
+1. The Society will be dissolved if: 
 
-2. The Secretary shall give at least fourteen (14) days' notice of
-   the time and place of such a General Meeting through one of the
-   recognized publications of The University of Sydney Union and (if
-   possible) the Society website and (if possible) by a mail-out to
-   all members. (A mail-out is understood to include communication by
-   e-mail.)
+   1. the members in General Meeting resolve to do so; or 
 
-Inactivity
-----------
+   2. it has fewer than 10 members who are current students of the University; or
 
-The Society shall be deemed inactive after any continuous six month
-period in which that Club or Society has remained unregistered. If upon
-inactivity there remains any monies or properties, the Clubs & Societies
-Auditor and the Clubs & Societies Manager shall become signatories of
-the Society account and the Clubs & Societies Office shall control such
-properties and held in trust. After a further six month period, all
-money will be deposited into a University of Sydney Union-administered
-trust account, and will be returned to the Society should it reform.
-After a total of eighteen months inactivity, all Society funds will be
-transferred to the USU general account.
+   3. its dissolution is directed by the Deputy Vice-Chancellor (Education) of the University. 
 
-Recognition
------------
+2. The dissolution will take effect on the date that the circumstance requiring it occurs. 
 
-The Society shall comply with all requirements of the University of
-Sydney and the University of Sydney Union for recognition as a
-registered Society of the University of Sydney Union.
+3. As from the date of dissolution: 
 
-This Constitution was adopted on the 14th day of November, 2020.
+   1. the Executive shall cease to hold office, except for the purposes of complying with this clause; 
+
+   2. the Executive will provide to the Deputy Vice-Chancellor (Education) of the University all the records and documents of the Society; and 
+
+   3. any remaining money or property of the Society will: 
+
+      1. if the Society is dissolved by special resolution of its membership, be transferred to a cultural, charitable or educational organisation in accordance with any wish expressed by the membership at that time; or 
+
+      2. otherwise, transferred to the Deputy Vice-Chancellor (Education) of the University to be transferred to a cultural, charitable or educational organisation, as they consider appropriate.
+
+Reporting and Recognition
+-------------------------
+
+1. The Society must provide an establishing authority of the University with an annual report each year no later than 2 weeks after the Annual General Meeting of the year is closed. The annual report will include: 
+
+   1. the minutes of the Annual General Meeting; and 
+
+   2. the President’s report and statement of accounts for the preceding financial year. 
+
+2. The Society must comply with all requirements of the University of Sydney Act 1989, the Student Association Policy 2020 and Student Association Procedures 2021 of the University for recognition as a student society affiliated with the University under the supervision of an establishing authority of the University. 
+
+This Constitution was adopted on the 5th day of October, 2022.
 
 President's Signature
 
@@ -653,4 +617,4 @@ Secretary's Signature
 
   \vspace{24pt}
 
-Barbara Wang
+Steven Huang
