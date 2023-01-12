@@ -56,7 +56,7 @@ Membership
 
    2. Associate membership
 
-      2. Persons other than those who qualify for Ordinary Membership may have Associate Membership conferred upon them by an Executive Meeting of the Society. Associate Members are not eligible to hold Executive positions, vote in elections or vote at meetings of the Society. 
+      1. Persons other than those who qualify for Ordinary Membership may have Associate Membership conferred upon them by an Executive Meeting of the Society. Associate Members are not eligible to hold Executive positions, vote in elections or vote at meetings of the Society. 
 
 2. Members of the Society must not engage in any behaviour that may be deemed bullying, harassment, or discrimination under the Bullying, Harassment and Discrimination Prevention Policy 2015 of the University.
 
@@ -80,9 +80,9 @@ Membership
 
    4. is expelled from the Society following the procedure in sub clause 3.7 of this Constitution. 
 
-7. A member of the Society may have their membership terminated after the following procedure is followed: 
+7. A member of the Society may have their membership terminated after the following procedure is followed:
 
-   1.  A complaint may be made to the executive committee of the Society by any person for reasons including but not limited to: 
+   1.  A complaint may be made to the executive committee of the Society by any person for reasons including but not limited to:
 
       1. that a member of the Society has wilfully acted in a manner prejudicial to the interests of the Society; and 
 
@@ -90,7 +90,7 @@ Membership
 
    2. The executive committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature.
    
-   3. The executive committee may decide to deal with a complaint and: 
+   3. The executive committee may decide to deal with a complaint and:
       
       1. must cause notice of the complaint to be served on the member concerned; 
 
@@ -120,7 +120,7 @@ The Executive
    9. A Systems Administrator
    10. A Technology Events Coordinator; and
    11. Up to a further ten Executive Members, comprising:
-
+   
       1. An additional Social Events Coordinator
       2. Two additional Industry Liaisons
       3. An additional Technology Events Coordinator 
