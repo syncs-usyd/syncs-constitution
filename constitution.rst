@@ -18,70 +18,91 @@ Constitution of the Sydney Computing Society (SYNCS)
 Name
 ----
 
-The name of the Society shall be the Sydney Computing Society (SYNCS),
-hereinafter referred to as "the Society".
+The name of the society is the Sydney Computing Society (SYNCS), hereinafter referred to as "the Society".
 
 Aims
 ----
 
-1. "The Society" is not for profit, meaning the assets and income of
-   the Society shall be applied solely in furtherance of the aims of
-   the society and no portion shall be distributed directly or
-   indirectly to the members of the Society except as bona fide
-   compensation expenses incurred on the behalf of the Society.
+1. The aims of the Society are to:
 
-2. The aims of the Society shall be to:
+   1. provide a forum in which members can interact and network with other like-minded individuals;
 
-   1. Provide a forum in which members can interact and network with
-      other like-minded individuals;
+   2. further interest in the use of information technologies;
 
-   2. Further interest in the use of information technologies;
+   3. assist members to participate fully in university life; and
 
-   3. Assist members to participate fully in university life;
+   4. facilitate contact between members, academic staff and industry representatives.
 
-   4. Facilitate contact between members, academic staff and industry
-      representatives.
+2. The aims, activities and practices of the Society must be consistent with the Student Association Policy 2020 and Student Association Procedures 2021 of the University of Sydney (hereinafter referred to as "the University"). 
 
 3. The Society will undertake the following activities to achieve its aims:
 
-   1. Social activities, including (but not limited to) barbecues,
-      games and movie events;
+   1. social activities, including but not limited to barbecues, first year camps, industry social events, end of year functions, and games events;
 
-   2. Programming competitions and programming practice sessions;
+   2. technical activities, including but not limited to programming competitions, programming practice sessions, programming help desks, hackathons, capture the flags, workshops and seminars relating to topics in existing or emerging information technology; 
 
-   3. Workshops, seminars and forums relating to topics in
-      information technologies, including (but not limited to) new
-      and upcoming technologies, and careers;
+   3. industry activities, including but not limited to site tours, careers fair, diversity events, alumni networking events, careers workshops and seminars; and 
 
-   4. Websites, online forums and other electronic resources.
+   4. websites, online forums and other electronic resources.
 
 Membership
 ----------
 
-1. The classes of annual membership shall be:
+1. The classes of annual membership of the Society are:
 
    1. Ordinary membership
 
-      All members of the University of Sydney Union shall be
-      eligible for Ordinary Membership of the Society. Any Ordinary
-      Member shall hold one vote at all meetings and elections of
-      the Society at which they are present.
+      All current students enrolled in the University are eligible for Ordinary Membership of the Society. Any current Ordinary Member will be eligible to hold Executive positions and hold one vote at all meetings and elections of the Society at which they are present, except as provided in sub clause 9.3 of this Constitution. 
 
    2. Associate membership
 
-      Persons other than those who qualify for Ordinary Membership may
-      have Associate Membership conferred upon them by an Ordinary Meeting
-      of the Society. Associate Members are not eligible to hold Executive
-      positions, vote in elections or vote at meetings of the Society.
+      Persons other than those who qualify for Ordinary Membership may have Associate Membership conferred upon them by an Executive Meeting of the Society. Associate Members are not eligible to hold Executive positions, vote in elections or vote at meetings of the Society. 
 
-2. Upon payment of a subscription fee, a person shall be deemed an
-   Ordinary Member or Associate Member of the Society and henceforth
-   be bound by this Constitution.
+2. Members of the Society must not engage in any behaviour that may be deemed bullying, harassment, or discrimination under the Bullying, Harassment and Discrimination Prevention Policy 2015 of the University.
 
-3. The subscription fees for membership shall be:
+3. The Society must at all times: 
 
-   1. Ordinary Membership: $0;
-   2. Associate Membership: $0.
+   1. maintain a written membership list; and 
+   
+   2. have at least 10 current students of the University as members. 
+
+4. There must be no membership fee, but members may be asked to contribute to cover the cost of events either for each individual event or annually. 
+
+5. Upon successful submission of a membership form, a person is deemed an Ordinary Member or Associate Member of the Society and henceforth be bound by this Constitution. 
+
+6. A person ceases to be a member of the Society if the person: 
+
+   1. is no longer a current student of the University; or 
+
+   2. dies; or 
+   
+   3. resigns membership; or 
+
+   4. is expelled from the Society following the procedure in sub clause 3.7 of this Constitution. 
+
+7. A member of the Society may have their membership terminated after the following procedure is followed: 
+
+   1.  A complaint may be made to the executive committee of the Society by any person for reasons including but not limited to: 
+
+      1. that a member of the Society has wilfully acted in a manner prejudicial to the interests of the Society; and 
+
+      2. that a member of the Society has refused or neglected to comply with sub clause 3.2 of this Constitution. 
+
+   2. The executive committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature. 
+   
+   3. The executive committee may decide to deal with a complaint and: 
+      
+      1. must cause notice of the complaint to be served on the member concerned; 
+
+      2. must give the member at least fourteen (14) clear days from the time the notice is served within which to make submissions to the executive committee in connection with the complaint; 
+
+      3. must take into consideration any submissions made by the member in connection with the complaint; 
+
+      4. may, by ordinary resolution: that is, a resolution carried by a simple majority of those present and eligible to vote, expel the member from the Society if it is satisfied that the facts alleged in the complaint have been proved and the termination is warranted in the circumstances; and 
+
+      5. must within seven (7) clear days after any executive action is taken, cause written notice to be given to the member of the action taken, of the reasons given by the executive committee for having taken that action and of the member’s right of appeal under sub clause 3.7.d of this Constitution. 
+
+   4. Any member of the Society who believes they have been wrongly expelled may appeal to the executive committee by lodging with the Secretary a notice to that effect within 7 days after notice of the resolution is served on the member, during which expulsion does not take effect. The executive committee will arrive at the final resolution of the matter at a General Meeting, 
 
 The Executive
 -------------
@@ -97,165 +118,193 @@ The Executive
    7. A Social Media Manager
    8. An Industry Liaison
    9. A Systems Administrator
-   10. A Technology Events Coordinator (Prog Comp)
-   11. A Technology Events Coordinator (Cyber Security)
-   12. And up to a further seven Executive Members, comprising:
+   10. A Technology Events Coordinator
+   11. And up to a further ten Executive Members, comprising:
 
-       1. Two additional Industry Liaisons
-       2. An Undergraduate Representative
-       3. A Postgraduate Representative
-       4. A First Year Representative
-       5. An International Student Representative
-       6. A Diversity Representative
+      1. An additional Social Events Coordinator
+      2. Two additional Industry Liaisons
+      3. An additional Technology Events Coordinator 
+      4. An additional Systems Administrator
+      5. An Undergraduate Representative
+      6. A Postgraduate Representative
+      7. A First Year Representative
+      8. An International Student Representative
+      9. A Diversity Representative
 
-2. The Executive shall have power to manage the Society in accordance
-   with the Constitution.
 
-3. Attendance of Executive Members at Ordinary and General Meetings
-   is obligatory. Any Executive Member who does not attend three
-   consecutive meetings without leave can be dismissed from the
-   Executive by a two-thirds majority vote of those Ordinary Members
-   in attendance at an Ordinary Meeting.
+2. Subject to the University of Sydney Act 1989, the Student Association Policy 2020 of the University, the Student Association Procedures 2021 of the University and any resolution passed by the Society in General Meeting, the Executive: 
+
+   1. is to control and manage the affairs of the Society; 
+   
+   2. exercise all the functions that may be exercised by the Society, other than those functions that are required by this Constitution to be exercised by a General Meeting of members of the Society; and 
+
+   3. has power to perform all the acts and do all things that appear to the Society to be necessary or desirable for the proper management of the affairs of the Society. 
+
+3. A member may hold up to two (2) Executive positions, other than two (2) Executive positions among the President, Vice President, Treasurer, and Secretary. 
+
+4. There is no maximum number of consecutive terms for which a member may hold Executive positions. 
+
+5. The term of the Executive will commence immediately following the close of the Annual General Meeting and conclude at the close of the handover meeting in the following year. 
+
+6. The Executive has the power to manage the Society in accordance with this Constitution.
+
+   1. The Executive must have an Executive Meeting at least quarterly. 
+
+7. Attendance of Executive Members at Executive and General Meetings is obligatory. Any Executive Member who does not attend three consecutive meetings without leave can be dismissed from the Executive by ordinary resolution at an Executive or General Meeting. 
+
 
 Duties of Executive Members
 ---------------------------
 
-1. The President shall:
+1. The President will: 
 
-   1. Plan the Society's activities in consultation with the Executive;
-   2. Liaise with the Executive and any Committees formed by the Society;
-   3. Ensure an adequate handover, including any documents and
-      materials, to the following Executive.
+   1. convene and chair all Annual General Meetings, other General Meetings, Executive Meetings or Subcommittee meetings, provided that the President is not standing for election to any Executive position at the meeting; 
 
-2. The Vice President shall:
+   2. provide a written report to the Annual General Meeting; 
 
-   1. Deputise for the President.
+   3. plan the activities of the Society in consultation with the Executive; d. liaise with the Executive and any Subcommittees formed by the Society; and e. provide and ensure an appropriate handover, including all relevant documents and materials, to the following Executive. 
 
-3. The Treasurer shall:
+2. The Vice President will: 
 
-   1. Maintain the Society's finances in accordance with the *C&S
-      Handbook for Treasurers* produced by the Clubs & Societies
-      Office of the University of Sydney Union;
-   2. Present to the Annual General Meeting of the Society a report
-      detailing the financial activity and status of the Society;
-   3. Ensure an adequate handover, including any documents and
-      materials, to the following Executive.
+   1. deputise for the President. 
 
-4. The Secretary shall:
+3. The Treasurer will: 
 
-   1. Conduct the correspondence of the Society;
-   2. Keep minutes of the proceedings of all Society meetings;
-   3. Maintain the records and documents of the Society;
-   4. Maintain a list of current Members, in accordance with University of Sydney Union Guidelines;
-   5. Maintain the Society's registration with the University of Sydney Union.
+   1. maintain the Society's finances in accordance with the Student Association Procedures 2021 of the University; 
 
-5. The Social Events Coordinator shall:
+   2. present to the Annual General Meeting of the Society a report detailing the financial activity and status of the Society; and 
 
-   1. Plan, organise and supervise a schedule of events throughout the year;
-   2. Book meeting rooms for the Society;
-   3. Coordinate the activities of other Executives assisting in the execution of events;
-   4. Liaise with the Branding Manager and Social Media Manager
-      to ensure that members are aware of events.
+   3. provide and ensure an appropriate handover, including all relevant documents and materials, to the following Executive. 
 
-6. The Branding Manager shall:
+4. The Secretary will: 
 
-   1. Create and update material on the Society website and other publications;
-   2. Create material for publicising the Society and its events,
-      including (but not limited to) websites, posters, newsletters and merchandise;
-   3. Devise strategies to ensure the active participation of members.
+   1. conduct the correspondence of the Society; 
 
-7. The Social Media Manager shall:
+   2. book meeting rooms for the Society when required; 
 
-   1. Create and update material on the Society website and other publications;
-   2. Handle external communication through social media and email;
-   3. Devise strategies to ensure the active participation of members.
+   3. keep minutes of all Society meetings; 
 
-8. The Industry Liaison(s) shall:
+   4. maintain the records and documents of the Society; 
 
-   1. Develop and maintain links with industry partners to further mutual goals.
+   5. maintain a list of current members and associates; and 
+   
+   6. provide and ensure an appropriate handover, including all relevant documents and materials, to the following executive. 
 
-9. The Systems Administrator shall:
+5. The Social Events Coordinator(s) will: 
 
-   1. Install and maintain computer hardware and software for the
-      Society, including (but not limited to) the Society website;
-   2. Maintain the Society's email distribution lists.
+   1. liaise with the technology events coordinators to plan, organise and supervise a schedule of events of the Society throughout the year; 
 
-10. The Technology Events Coordinator (Prog Comp) shall:
+   2. book meeting rooms for the Society when required; 
 
-    1. Plan, organise and supervise events pertaining to programming
-       related activities, including (but not limited to) programming
-       competition practice sessions and technology workshops;
-    2. Coordinate activities with the Social Events Coordinator,
-       Branding Manager, Social Media Manager and Industry Liaison(s) to
-       promote member participation in programming related activities.
+   3. coordinate the activities of other Executives assisting in the execution of events; and d. liaise with the Branding Manager and Social Media Manager to ensure that members are aware of events. 
 
-11. The Technology Events Coordinator (Cyber Security) shall:
+6. The Branding Manager will: 
+   1. create and update materials on the Society website and other publications; 
 
-    1. Plan, organise and supervise events pertaining to programming
-       related activities, including (but not limited to) programming
-       practice sessions and cybersecurity workshops;
-    2. Coordinate activities with the Social Events Coordinator,
-       Branding Manager, Social Media Manager and Industry Liaison(s) to
-       promote member participation in programming related activities.
+   2. create materials for publicising the Society and its events, including but not limited to websites, posters, newsletters and merchandise; and 
+   
+   3. devise strategies to ensure the active participation of members. 
 
-12. The Undergraduate Representative shall:
+7. The Social Media Manager will: 
 
-    1. Facilitate communication between the undergraduate students of
-       the School of Computer Science, the staff of the School
-       of Computer Science, and the Society;
-    2. Coordinate activities with the Social Events Coordinator, Branding
-       Manager, Social Media Manager and other student representatives of the
-       Society to promote student participation in Society activities.
-    3. Coordinate the organisation of room booking and helpers for Helpdesk.
+   1. create and update materials on the Society website and other publications;
 
-13. The Postgraduate Representative shall:
+   2. handle external communications through social media platforms of the Society and emails; and 
 
-    1. Facilitate communication between the postgraduate students of
-       the School of Computer Science, the staff of the School
-       of Computer Science, and the Society;
-    2. Coordinate activities with the Social Events Coordinator, Branding
-       Manager, Social Media Manager and other student representatives of the
-       Society to promote student participation in Society activities.
+   3. liaise with the Branding Manager to devise strategies to ensure the active participation of members. 
 
-14. The First Year Representative shall:
+8. The Industry Liaison(s) will: 
 
-    1. Facilitate communication between the first year students of the
-       School of Computer Science, the staff of the School of
-       Computer Science, and the Society;
-    2. Coordinate activities with the Social Events Coordinator, Branding
-       Manager, Social Media Manager and other student representatives of the
-       Society to promote student participation in Society activities.
+   1. develop and maintain connections with industry partners to further mutual goals; and 
+   
+   2. liaise with the Social Events Coordinators and Technology Events Coordinators to establish and organise events involving industry partners of the Society. 
 
-15. The International Student Representative shall:
+9. The Systems Administrator(s) will:
+   1. install and maintain computer hardware and software for the Society, including but not limited to the Society website; and
+   2. maintain the email distribution lists of the Society.
 
-    1. Facilitate communication between the international students of
-       the School of Computer Science, the staff of the
-       School of Computer Science, and the Society;
-    2. Coordinate activities with the Social Events Coordinator, Branding
-       Manager, Social Media Manager and other student representatives of the
-       Society to promote student participation in Society activities.
+10. The Technology Events Coordinator(s) will: 
 
-16. The Diversity Representative shall:
+   1. plan, organise and supervise technical events of the Society, including but not limited to programming competitions and information technology workshops; and
 
-    1. Facilitate communication between those from diverse groups
-       including the students of the School of Computer Science,
-       the staff of the School of Computer Science, and the Society;
-    2. Coordinate activities with the Social Events Coordinator, Branding
-       Manager, Social Media Manager and other student representatives of the
-       Society to promote student participation in Society activities.
+   2. coordinate activities with the Social Events Coordinator(s), Branding Manager, Social Media Manager and Industry Liaison(s) to promote member participation in technical activities of the Society. 
 
-17. The Executive, subject to this Constitution must not engage in conduct
-    that may reasonably be deemed destructive to the Society. All Executives
-    of the Society shall be subject to the following conditions:
+11. The Undergraduate Representative will: 
 
-    1. When Executive members are participating, observing, or otherwise
-       present at a public event they are representing the Society and
-       must act in a respectful manner throughout the entire event.
-    2. All Executive members must not engage in any behaviour that may
-       reasonably be deemed bullying, harassment, or discrimination.
-    3. All Executive members must not share proprietary information with
-       other organisations or the general public without prior approval
-       by the aforementioned panel under Clause 15.2.
+   1. facilitate communication between the undergraduate students and staff of the School of Computer Science of the University, and the Society; 
+
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities; and 
+
+   3. coordinate the organisation of room booking and helpers for the regular programming help desk event of the Society. 
+
+12. The Postgraduate Representative will: 
+
+   1. facilitate communication between the postgraduate students and staff of the School of Computer Science of the University, and the Society; and 
+
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities. 
+
+13. The First Year Representative will: 
+
+   1. facilitate communication between the first year students and staff of the School of Computer Science of the University, and the Society; and 
+
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities. 
+
+14. The International Student Representative will: 
+
+   1. facilitate communication between the international students and staff of the School of Computer Science of the University, and the Society; and 
+
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities. 
+
+15. The Diversity Representative will: 
+
+   1. facilitate communication between members from diverse groups, the staff of the School of Computer Science of the University, and the Society; and 
+
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities. 
+
+16. The Executive, subject to this Constitution, must not engage in conduct that may reasonably be deemed destructive to the Society. All Executive Member of the Society are subject to the following conditions: 
+
+   1. when Executive Members are participating, observing, or otherwise present at a public event, they are representing the Society and must act in a respectful manner throughout the entire event; 
+
+   2. all Executive Members must not engage in any behaviour that may reasonably be deemed bullying, harassment, or discrimination; and 
+
+   3. all Executive Members must not share proprietary information of the Society with other organisations or the general public without prior approval by at least two members among the President, Vice President, Treasurer, and Secretary. 
+
+The Subcommittees
+-----------------
+
+1. The Society will have the following Subcommittees: 
+
+   1. an Events Subcommittee, which includes a social events division and a technology events division; 
+
+   2. a Sponsorship Subcommittee; 
+
+   3. a Marketing Subcommittee; and 
+
+   4. any other Subcommittee as the Executive sees fit. 
+
+2. The Subcommittees will consist of a group of Ordinary Members of the Society, selected by The Executive via processes where the Executive sees fit, to perform a particular task or tasks of the Society. 
+
+3. The Executive must give a written notice of the opening application period of the Subcommittees, which must last no less than seven (7) clear days, in one of the recognised media platforms of the Society. 
+
+4. The Executive listed below will be directly responsible for managing the Subcommittees and report at least monthly to either the President, Vice President, Treasurer, or Secretary:
+
+   1. the Social Events Coordinator(s) and the Technology Events Coordinator(s) will be the Directors of the Events Subcommittee; 
+
+   2. the Industry Liaison(s) will be the Directors of the Sponsorship Subcommittee; 
+   
+   3. the Branding Manager and Social Media Manager will be the Directors of the Marketing Subcommittee; and 
+
+   4. any other Executive Member(s) appointed by the aforementioned panel in sub clause 6.4 of this Constitution will be the Directors of any other Subcommittee(s) of the Society. 
+
+5. The term of the Subcommittee Members will commence immediately following a written notice by the Executive to the successful applicants of the Subcommittees, and conclude at:
+
+   1. the Annual General Meeting in the same year, if the Subcommittee Member is elected into an Executive position of the Society; or 
+
+   2. the completion of the selection process of the Subcommittees for the following year; or 
+
+   3. a written resignation letter by the Subcommittee Member to their Director. 
+
+6. Any act or thing done or suffered by a member of the Subcommittees acting in the exercise of a delegation by the Executive has the same force and effect as it would have if it had been done or suffered by the Executive. 
 
 Ordinary Meetings
 -----------------
