@@ -80,9 +80,9 @@ Membership
 
    4. is expelled from the Society following the procedure in sub clause 3.7 of this Constitution. 
 
-7. A member of the Society may have their membership terminated after the following procedure is followed:
+7. A member of the Society may have their membership terminated after the following procedure is followed: 
 
-   1.  A complaint may be made to the executive committee of the Society by any person for reasons including but not limited to:
+   1.  A complaint may be made to the executive committee of the Society by any person for reasons including but not limited to: 
 
       1. that a member of the Society has wilfully acted in a manner prejudicial to the interests of the Society; and 
 
@@ -115,12 +115,12 @@ The Executive
    4. A Secretary
    5. A Social Events Coordinator
    6. A Branding Manager
-   7. A Social Media Manager
+   7. A Marketing Manager
    8. An Industry Liaison
    9. A Systems Administrator
    10. A Technology Events Coordinator; and
    11. Up to a further ten Executive Members, comprising:
-   
+
       1. An additional Social Events Coordinator
       2. Two additional Industry Liaisons
       3. An additional Technology Events Coordinator 
@@ -130,7 +130,6 @@ The Executive
       7. A First Year Representative
       8. An International Student Representative
       9. A Diversity Representative
-
 
 2. Subject to the University of Sydney Act 1989, the Student Association Policy 2020 of the University, the Student Association Procedures 2021 of the University and any resolution passed by the Society in General Meeting, the Executive: 
 
@@ -202,7 +201,7 @@ Duties of Executive Members
 
    3. coordinate the activities of other Executives assisting in the execution of events; and   
 
-   4. liaise with the Branding Manager and Social Media Manager to ensure that members are aware of events. 
+   4. liaise with the Branding Manager and Marketing Manager to ensure that members are aware of events. 
 
 6. The Branding Manager will: 
 
@@ -212,7 +211,7 @@ Duties of Executive Members
    
    3. devise strategies to ensure the active participation of members. 
 
-7. The Social Media Manager will: 
+7. The Marketing Manager will: 
 
    1. create and update materials on the Society website and other publications;
 
@@ -236,13 +235,13 @@ Duties of Executive Members
 
    1. plan, organise and supervise technical events of the Society, including but not limited to programming competitions and information technology workshops; and
 
-   2. coordinate activities with the Social Events Coordinator(s), Branding Manager, Social Media Manager and Industry Liaison(s) to promote member participation in technical activities of the Society. 
+   2. coordinate activities with the Social Events Coordinator(s), Branding Manager, Marketing Manager and Industry Liaison(s) to promote member participation in technical activities of the Society. 
 
 11. The Undergraduate Representative will: 
 
    1. facilitate communication between the undergraduate students and staff of the School of Computer Science of the University, and the Society; 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities; and 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities; and 
 
    3. coordinate the organisation of room booking and helpers for the regular programming help desk event of the Society. 
 
@@ -250,25 +249,25 @@ Duties of Executive Members
 
    1. facilitate communication between the postgraduate students and staff of the School of Computer Science of the University, and the Society; and 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities. 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
 
 13. The First Year Representative will: 
 
    1. facilitate communication between the first year students and staff of the School of Computer Science of the University, and the Society; and 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities. 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
 
 14. The International Student Representative will: 
 
    1. facilitate communication between the international students and staff of the School of Computer Science of the University, and the Society; and 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities. 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
 
 15. The Diversity Representative will: 
 
    1. facilitate communication between members from diverse groups, the staff of the School of Computer Science of the University, and the Society; and 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Social Media Manager and other student representatives of the Society to promote student participation in Society activities. 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
 
 16. The Executive, subject to this Constitution, must not engage in conduct that may reasonably be deemed destructive to the Society. All Executive Member of the Society are subject to the following conditions: 
 
@@ -301,19 +300,21 @@ The Subcommittees
 
    2. the Industry Liaison(s) will be the Directors of the Sponsorship Subcommittee; 
    
-   3. the Branding Manager and Social Media Manager will be the Directors of the Marketing Subcommittee; and 
+   3. the Branding Manager and Marketing Manager will be the Directors of the Marketing Subcommittee; and 
 
    4. any other Executive Member(s) appointed by the aforementioned panel in sub clause 6.4 of this Constitution will be the Directors of any other Subcommittee(s) of the Society. 
 
 5. The term of the Subcommittee Members will commence immediately following a written notice by the Executive to the successful applicants of the Subcommittees, and conclude at:
 
-   1. the Annual General Meeting in the same year, if the Subcommittee Member is elected into an Executive position of the Society; or 
+   1. the Annual General Meeting in the same year; or 
 
-   2. the completion of the selection process of the Subcommittees for the following year; or 
+   2. a written resignation letter by the Subcommittee Member to their Director; or
 
-   3. a written resignation letter by the Subcommittee Member to their Director. 
+   3. the dismissal of the Subcommittee Member by their Director
 
-6. Any act or thing done or suffered by a member of the Subcommittees acting in the exercise of a delegation by the Executive has the same force and effect as it would have if it had been done or suffered by the Executive.
+6. A Director from The Executive may dismiss a Member of their Subcommittee with prior approval from no less than 3 Executive Members among the President, Vice President, Treasurer, and Secretary.
+
+7. Any act or thing done or suffered by a member of the Subcommittees acting in the exercise of a delegation by the Executive has the same force and effect as it would have if it had been done or suffered by the Executive.
 
 General Meetings
 ----------------
@@ -382,7 +383,7 @@ Annual General Meeting
    3. to transact any other business, notice of which must be duly submitted to the Secretary. 
 
 2. The Secretary must provide members with at least fourteen (14) clear days' written notice of the Annual General Meeting in one of the recognised media platforms of the Society. The notice must include: 
-
+   
    1. the day on which nominations open, which day must be at least fourteen (14) clear days before the day of the elections; 
 
    2. the day and time on which nominations close, which must be no later than the time of the elections; 
