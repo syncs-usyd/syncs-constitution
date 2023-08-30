@@ -16,3 +16,8 @@ make
 ```
 
 The output is a file called `constitution.pdf`.
+
+# Creating a release
+
+1. Tag the commit locally using `git tag <tag-name>`. The `<tag-name>` should be the date of the constitution change in `YYYY-MM-DD` format.
+2. Push the tag to Github by using `git push origin <tag-name>`. This will trigger a Github Action to automatically build and publish the constitution in pdf.
