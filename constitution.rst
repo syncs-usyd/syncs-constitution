@@ -109,17 +109,16 @@ The Executive
 
 1. The Society shall have an Executive consisting of:
 
-   1. A President
-   2. A Vice President
-   3. A Treasurer
-   4. A Secretary
-   5. A Social Events Coordinator
-   6. A Branding Manager
-   7. A Marketing Manager
-   8. An Industry Liaison
-   9. A Systems Administrator
-   10. A Technology Events Coordinator; and
-   11. Up to a further ten Executive Members, comprising:
+   1. Two Co-Presidents
+   2. A Treasurer
+   3. A Secretary
+   4. A Social Events Coordinator
+   5. A Branding Manager
+   6. A Marketing Manager
+   7. An Industry Liaison
+   8. A Systems Administrator
+   9. A Technology Events Coordinator; and
+   10. Up to a further ten Executive Members, comprising:
 
       1. An additional Social Events Coordinator
       2. Two additional Industry Liaisons
@@ -139,7 +138,7 @@ The Executive
 
    3. has power to perform all the acts and do all things that appear to the Society to be necessary or desirable for the proper management of the affairs of the Society. 
 
-3. A member may hold up to two (2) Executive positions, other than two (2) Executive positions among the President, Vice President, Treasurer, and Secretary. 
+3. A member may hold up to two (2) Executive positions, other than two (2) Executive positions among the Co-Presidents, Treasurer, and Secretary. 
 
 4. There is no maximum number of consecutive terms for which a member may hold Executive positions. 
 
@@ -155,7 +154,7 @@ The Executive
 Duties of Executive Members
 ---------------------------
 
-1. The President will: 
+1. The Co-Presidents will: 
 
    1. convene and chair all Annual General Meetings, other General Meetings, Executive Meetings or Subcommittee meetings, provided that the President is not standing for election to any Executive position at the meeting; 
 
@@ -167,11 +166,7 @@ Duties of Executive Members
 
    5. provide and ensure an appropriate handover, including all relevant documents and materials, to the following Executive.
 
-2. The Vice President will: 
-
-   1. deputise for the President. 
-
-3. The Treasurer will: 
+2. The Treasurer will: 
 
    1. maintain the Society's finances in accordance with the Student Association Procedures 2021 of the University; 
 
@@ -179,7 +174,7 @@ Duties of Executive Members
 
    3. provide and ensure an appropriate handover, including all relevant documents and materials, to the following Executive.
 
-4. The Secretary will: 
+3. The Secretary will: 
 
    1. conduct the correspondence of the Society; 
 
@@ -193,7 +188,7 @@ Duties of Executive Members
    
    6. provide and ensure an appropriate handover, including all relevant documents and materials, to the following executive.
 
-5. The Social Events Coordinator(s) will: 
+4. The Social Events Coordinator(s) will: 
 
    1. liaise with the technology events coordinators to plan, organise and supervise a schedule of events of the Society throughout the year; 
 
@@ -203,7 +198,7 @@ Duties of Executive Members
 
    4. liaise with the Branding Manager and Marketing Manager to ensure that members are aware of events. 
 
-6. The Branding Manager will: 
+5. The Branding Manager will: 
 
    1. create and update materials on the Society website and other publications; 
 
@@ -211,7 +206,7 @@ Duties of Executive Members
    
    3. devise strategies to ensure the active participation of members. 
 
-7. The Marketing Manager will: 
+6. The Marketing Manager will: 
 
    1. create and update materials on the Society website and other publications;
 
@@ -219,25 +214,25 @@ Duties of Executive Members
 
    3. liaise with the Branding Manager to devise strategies to ensure the active participation of members. 
 
-8. The Industry Liaison(s) will: 
+7. The Industry Liaison(s) will: 
 
    1. develop and maintain connections with industry partners to further mutual goals; and 
    
    2. liaise with the Social Events Coordinators and Technology Events Coordinators to establish and organise events involving industry partners of the Society. 
 
-9. The Systems Administrator(s) will:
+8. The Systems Administrator(s) will:
 
    1. install and maintain computer hardware and software for the Society, including but not limited to the Society website; and
 
    2. maintain the email distribution lists of the Society.
 
-10. The Technology Events Coordinator(s) will: 
+9. The Technology Events Coordinator(s) will: 
 
    1. plan, organise and supervise technical events of the Society, including but not limited to programming competitions and information technology workshops; and
 
    2. coordinate activities with the Social Events Coordinator(s), Branding Manager, Marketing Manager and Industry Liaison(s) to promote member participation in technical activities of the Society. 
 
-11. The Undergraduate Representative will: 
+10. The Undergraduate Representative will: 
 
    1. facilitate communication between the undergraduate students and staff of the School of Computer Science of the University, and the Society; 
 
@@ -245,37 +240,37 @@ Duties of Executive Members
 
    3. coordinate the organisation of room booking and helpers for the regular programming help desk event of the Society. 
 
-12. The Postgraduate Representative will: 
+11. The Postgraduate Representative will: 
 
    1. facilitate communication between the postgraduate students and staff of the School of Computer Science of the University, and the Society; and 
 
    2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
 
-13. The First Year Representative will: 
+12. The First Year Representative will: 
 
    1. facilitate communication between the first year students and staff of the School of Computer Science of the University, and the Society; and 
 
    2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
 
-14. The International Student Representative will: 
+13. The International Student Representative will: 
 
    1. facilitate communication between the international students and staff of the School of Computer Science of the University, and the Society; and 
 
    2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
 
-15. The Diversity Representative will: 
+14. The Diversity Representative will: 
 
    1. facilitate communication between members from diverse groups, the staff of the School of Computer Science of the University, and the Society; and 
 
    2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
 
-16. The Executive, subject to this Constitution, must not engage in conduct that may reasonably be deemed destructive to the Society. All Executive Member of the Society are subject to the following conditions: 
+15. The Executive, subject to this Constitution, must not engage in conduct that may reasonably be deemed destructive to the Society. All Executive Member of the Society are subject to the following conditions: 
 
    1. when Executive Members are participating, observing, or otherwise present at a public event, they are representing the Society and must act in a respectful manner throughout the entire event; 
 
    2. all Executive Members must not engage in any behaviour that may reasonably be deemed bullying, harassment, or discrimination; and 
 
-   3. all Executive Members must not share proprietary information of the Society with other organisations or the general public without prior approval by at least two members among the President, Vice President, Treasurer, and Secretary. 
+   3. all Executive Members must not share proprietary information of the Society with other organisations or the general public without prior approval by at least two members among the Co-Presidents, Treasurer, and Secretary. 
 
 The Subcommittees
 -----------------
@@ -294,7 +289,7 @@ The Subcommittees
 
 3. The Executive must give a written notice of the opening application period of the Subcommittees, which must last no less than seven (7) clear days, in one of the recognised media platforms of the Society. 
 
-4. The Executive listed below will be directly responsible for managing the Subcommittees and report at least monthly to either the President, Vice President, Treasurer, or Secretary:
+4. The Executive listed below will be directly responsible for managing the Subcommittees and report at least monthly to either the Co-Presidents, Treasurer, or Secretary:
 
    1. the Social Events Coordinator(s) and the Technology Events Coordinator(s) will be the Directors of the Events Subcommittee; 
 
@@ -312,7 +307,7 @@ The Subcommittees
 
    3. the dismissal of the Subcommittee Member by their Director
 
-6. A Director from The Executive may dismiss a Member of their Subcommittee with prior approval from no less than 3 Executive Members among the President, Vice President, Treasurer, and Secretary.
+6. A Director from The Executive may dismiss a Member of their Subcommittee with prior approval from no less than 3 Executive Members among the Co-Presidents, Treasurer, and Secretary.
 
 7. Any act or thing done or suffered by a member of the Subcommittees acting in the exercise of a delegation by the Executive has the same force and effect as it would have if it had been done or suffered by the Executive.
 
@@ -455,7 +450,9 @@ Elections
 
    4. be an international student of the University to be eligible to be a candidate for the International Student Representative; and 
 
-   5. have held ordinary membership of the Society for at least fourteen (14) clear days prior to the elections to be eligible to be a candidate for any Executive positions and hold one vote at the elections. 
+   5. have held ordinary membership of the Society for at least sixteen (16) clear days prior to the elections to be eligible to be a candidate for any Executive positions and hold one vote at the elections. 
+
+   6. expect to be enrolled at the University for the entire length of the term of their nominated position to be an eligible candidate for Executive Membership.
 
 4. Nominations of candidates for the Executive position(s): 
 
@@ -516,11 +513,11 @@ Vacancies and Dismissals
 
    7. is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months. 
 
-3. A dismissal complaint concerning an Executive Member may be made by any Executive Member to the first Executive Member not involved with the complaint in the following list: the Presidents, Vice President, Treasurer, and the Secretary. A vote of no confidence can be held against the Executive Member concerned if either of the following party unanimously decides to deal with the dismissal complaint: 
+3. A dismissal complaint concerning an Executive Member may be made by any Executive Member to the first Executive Member not involved with the complaint in the following list: the Co-Presidents, Treasurer, and the Secretary. A vote of no confidence can be held against the Executive Member concerned if either of the following party unanimously decides to deal with the dismissal complaint: 
 
    1. no less than half of all current Executive Members; or 
 
-   2. no less than 3 Executive Members among the President, Vice President, Treasurer, and Secretary. 
+   2. no less than 3 Executive Members among the Co-Presidents, Treasurer, and Secretary. 
 
 4. A vote of no confidence will be held automatically against any Executive Member who cannot show that they have attended any events or Executive meetings of the Society in the past 2 month. 
 
@@ -530,7 +527,7 @@ Vacancies and Dismissals
 
 7. A simple majority vote of the Executive is required to dismiss the Executive Member under scrutiny. 
 
-8. Any Executive Member who believes they have been wrongly dismissed may appeal to an establishing authority of the University who will arrive at the final resolution of the dismissal complaint. 
+8. Any Executive Member who believes they have been wrongly dismissed may appeal to an establishing authority of the University within seven (7) days of the resolution to dismiss, who will arrive at the final resolution of the dismissal complaint. 
 
 Alteration to the Constitution
 ------------------------------
@@ -560,7 +557,7 @@ Assets and Finances
 
 7. All payments of the Society must be by cheque or by Electronic Funds Transfer (EFT), signed by at least two members of the Executive, one of whom must be the Treasurer. 
 
-8. All events which require financial contribution from the Society or are entirely sponsored by a third party must be approved and signed off by the Treasurer and at least one other member among the President, Vice President and Secretary.
+8. All events which require financial contribution from the Society or are entirely sponsored by a third party must be approved and signed off by the Treasurer and at least one other member among the Co-Presidents and Secretary.
 
 9. Acceptable payment methods to the Society are cash and card.
 
