@@ -41,7 +41,7 @@ Aims
 
    2. technical activities, including but not limited to programming competitions, programming practice sessions, programming help desks, hackathons, capture the flags, workshops and seminars relating to topics in existing or emerging information technology; 
 
-   3. industry activities, including but not limited to site tours, careers fair, diversity events, alumni networking events, careers workshops and seminars; and 
+   3. industry activities, including but not limited to site tours, careers fairs, diversity events, alumni networking events, careers workshops and seminars; and 
 
    4. websites, online forums and other electronic resources.
 
@@ -113,24 +113,32 @@ The Executive
    2. A Treasurer
    3. A Secretary
    4. A Social Events Coordinator
-   5. A Branding Manager
-   6. A Marketing Manager
+   5. A Design Director
+   6. A Marketing Director
    7. An Industry Liaison
-   8. A Systems Administrator
+   8. A Development Lead
    9. A Technology Events Coordinator; and
    10. Up to a further ten Executive Members, comprising:
 
       1. An additional Social Events Coordinator
       2. Two additional Industry Liaisons
       3. An additional Technology Events Coordinator 
-      4. An additional Systems Administrator
+      4. Two additional Development Leads
       5. An Undergraduate Representative
       6. A Postgraduate Representative
       7. A First Year Representative
       8. An International Student Representative
       9. A Diversity Representative
 
-2. Subject to the University of Sydney Act 1989, the Student Association Policy 2020 of the University, the Student Association Procedures 2021 of the University and any resolution passed by the Society in General Meeting, the Executive: 
+2. Subject to the ACNC Governance Standards, there will be a subset of the Executive that will serve as the official committee of Responsible Persons governing the Society in its capacity as a charity organisation, comprising of:
+
+   1. the two Co-presidents
+
+   2. the Treasurer
+
+   3. the Secretary
+
+3. Subject to the University of Sydney Act 1989, the Student Association Policy 2020 of the University, the Student Association Procedures 2021 of the University and any resolution passed by the Society in General Meeting, the Executive:
 
    1. is to control and manage the affairs of the Society; 
    
@@ -138,17 +146,17 @@ The Executive
 
    3. has power to perform all the acts and do all things that appear to the Society to be necessary or desirable for the proper management of the affairs of the Society. 
 
-3. A member may hold up to two (2) Executive positions, other than two (2) Executive positions among the Co-Presidents, Treasurer, and Secretary. 
+4. A member may hold up to two (2) Executive positions, other than two (2) Executive positions among the Co-Presidents, Treasurer, and Secretary. 
 
-4. There is no maximum number of consecutive terms for which a member may hold Executive positions. 
+5. There is no maximum number of consecutive terms for which a member may hold Executive positions. 
 
-5. The term of the Executive will commence immediately following the close of the Annual General Meeting and conclude at the close of the handover meeting in the following year. 
+6. The term of the Executive will commence immediately following the close of the Annual General Meeting and conclude at the close of the handover meeting in the following year. 
 
-6. The Executive has the power to manage the Society in accordance with this Constitution.
+7. The Executive has the power to manage the Society in accordance with this Constitution.
 
    1. The Executive must have an Executive Meeting at least quarterly. 
 
-7. Attendance of Executive Members at Executive and General Meetings is obligatory. Any Executive Member who does not attend three consecutive meetings without leave can be dismissed from the Executive by ordinary resolution at an Executive or General Meeting. 
+8. Attendance of Executive Members at Executive and General Meetings is obligatory. Any Executive Member who does not attend three consecutive meetings without leave can be dismissed from the Executive by ordinary resolution at an Executive or General Meeting. 
 
 
 Duties of Executive Members
@@ -196,9 +204,9 @@ Duties of Executive Members
 
    3. coordinate the activities of other Executives assisting in the execution of events; and   
 
-   4. liaise with the Branding Manager and Marketing Manager to ensure that members are aware of events. 
+   4. liaise with the Design Director and Marketing Director to ensure that members are aware of events. 
 
-5. The Branding Manager will: 
+5. The Design Director will: 
 
    1. create and update materials on the Society website and other publications; 
 
@@ -206,13 +214,13 @@ Duties of Executive Members
    
    3. devise strategies to ensure the active participation of members. 
 
-6. The Marketing Manager will: 
+6. The Marketing Director will: 
 
    1. create and update materials on the Society website and other publications;
 
    2. handle external communications through social media platforms of the Society and emails; and 
 
-   3. liaise with the Branding Manager to devise strategies to ensure the active participation of members. 
+   3. liaise with the Design Director to devise strategies to ensure the active participation of members. 
 
 7. The Industry Liaison(s) will: 
 
@@ -220,7 +228,7 @@ Duties of Executive Members
    
    2. liaise with the Social Events Coordinators and Technology Events Coordinators to establish and organise events involving industry partners of the Society. 
 
-8. The Systems Administrator(s) will:
+8. The Development Lead(s) will:
 
    1. install and maintain computer hardware and software for the Society, including but not limited to the Society website; and
 
@@ -230,13 +238,13 @@ Duties of Executive Members
 
    1. plan, organise and supervise technical events of the Society, including but not limited to programming competitions and information technology workshops; and
 
-   2. coordinate activities with the Social Events Coordinator(s), Branding Manager, Marketing Manager and Industry Liaison(s) to promote member participation in technical activities of the Society. 
+   2. coordinate activities with the Social Events Coordinator(s), Design Director, Marketing Director and Industry Liaison(s) to promote member participation in technical activities of the Society. 
 
 10. The Undergraduate Representative will: 
 
    1. facilitate communication between the undergraduate students and staff of the School of Computer Science of the University, and the Society; 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities; and 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Design Director, Marketing Director and other student representatives of the Society to promote student participation in Society activities; and 
 
    3. coordinate the organisation of room booking and helpers for the regular programming help desk event of the Society. 
 
@@ -244,27 +252,27 @@ Duties of Executive Members
 
    1. facilitate communication between the postgraduate students and staff of the School of Computer Science of the University, and the Society; and 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Design Director, Marketing Director and other student representatives of the Society to promote student participation in Society activities. 
 
 12. The First Year Representative will: 
 
    1. facilitate communication between the first year students and staff of the School of Computer Science of the University, and the Society; and 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Design Director, Marketing Director and other student representatives of the Society to promote student participation in Society activities. 
 
 13. The International Student Representative will: 
 
    1. facilitate communication between the international students and staff of the School of Computer Science of the University, and the Society; and 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Design Director, Marketing Director and other student representatives of the Society to promote student participation in Society activities. 
 
 14. The Diversity Representative will: 
 
    1. facilitate communication between members from diverse groups, the staff of the School of Computer Science of the University, and the Society; and 
 
-   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Branding Manager, Marketing Manager and other student representatives of the Society to promote student participation in Society activities. 
+   2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Design Director, Marketing Director and other student representatives of the Society to promote student participation in Society activities. 
 
-15. The Executive, subject to this Constitution, must not engage in conduct that may reasonably be deemed destructive to the Society. All Executive Member of the Society are subject to the following conditions: 
+15. The Executive, subject to this Constitution, must not engage in conduct that may reasonably be deemed destructive to the Society. All Executive Members of the Society are subject to the following conditions: 
 
    1. when Executive Members are participating, observing, or otherwise present at a public event, they are representing the Society and must act in a respectful manner throughout the entire event; 
 
@@ -295,7 +303,7 @@ The Subcommittees
 
    2. the Industry Liaison(s) will be the Directors of the Sponsorship Subcommittee; 
    
-   3. the Branding Manager and Marketing Manager will be the Directors of the Marketing Subcommittee; and 
+   3. the Design Director and Marketing Director will be the Directors of the Marketing Subcommittee; and 
 
    4. any other Executive Member(s) appointed by the aforementioned panel in sub clause 6.4 of this Constitution will be the Directors of any other Subcommittee(s) of the Society. 
 
@@ -311,6 +319,39 @@ The Subcommittees
 
 7. Any act or thing done or suffered by a member of the Subcommittees acting in the exercise of a delegation by the Executive has the same force and effect as it would have if it had been done or suffered by the Executive.
 
+Subsidiary Clubs
+----------------
+
+1. A subsidiary club will be defined as an informal group of students that, with permission from the School of Computer Science, is supported by the Sydney Computing Society, by means of PR, financial administration, and intellectual property.
+
+2. A subsidiary club will adhere to the following mandates regarding inception, existence, and termination:
+
+   1. A subsidiary club may include one or more subsidiary club presidents, with the quantity determined by the SYNCS Committee.
+
+   2. The appointment of a subsidiary club president and therefore the integration of a subsidiary club into the society must first be proposed and approved by the School of Computer Science and then ratified by at least three members of the SYNCS Committee.
+
+   3. The structure of the subsidiary club is at the discretion of the subsidiary club president; however, it must include at least one PR Director and one Events Coordinator. A member may be permitted to fulfil multiple roles.
+
+   4. By majority vote, the SYNCS Committee may detach a subsidiary club from SYNCS.
+
+   5. A subsidiary club may be refused support by the SYNCS Committee in terms of PR, finance, or intellectual property should they deem that support is unwarranted.
+
+3. A subsidiary club will adhere to the following mandates regarding elections and members:
+
+   1. The subsidiary club president will be elected at the inception of the subsidiary club and subsequently at each SYNCS Annual General Meeting.
+
+   2. Subsidiary club members may be appointed at the discretion of the subsidiary club president, but they must be Ordinary Members of SYNCS.
+
+   3. A subsidiary club member may be dismissed at the behest of the subsidiary club president with approval from at least three members of the subcommittee.
+
+   4. Only members of the subsidiary club may vote in the election of their respective subsidiary club president.
+
+4. A subsidiary club will adhere to the following mandates regarding finances:
+
+   1. All financial requests made by a subsidiary club must follow a standard treasury request process.
+
+   2. Upon the initiation of a subsidiary club or the annual election of a subsidiary club president, the subsidiary club must present a prospectus outlining future events and projected costs until the next SYNCS Annual General Meeting.
+
 General Meetings
 ----------------
 
@@ -324,9 +365,9 @@ General Meetings
 
       2. no later than fourteen (14) clear days after a request under sub clause 7.2 of this Constitution; and 
 
-      3. consistently with requirements for an Annual General Meeting 
+      3. in accordance with requirements for an Annual General Meeting 
 
-3. The Secretary must give at least seven (7) clear days' written notice of the time, date, venue, and the nature of the business proposed to be transacted at the General Meeting through one of the recognised media platforms of the Society. 
+3. The Secretary must give at least seven (7) clear days' written notice of the time, date, venue, and nature of the business proposed to be transacted at the General Meeting through one of the recognised media platforms of the Society. 
 
 4. Quorum at General Meetings will be the lesser number of one-third of the total membership of the Society or fifteen (15) Ordinary Members. 
 
@@ -395,7 +436,7 @@ Annual General Meeting
 
    1. at a place on campus of the University; or 
 
-   2. over a video-conferencing software with anonymous polling feature determined by the Secretary; or 
+   2. over a video-conferencing software with an anonymous polling feature determined by the Secretary; or 
 
    3. at another place determined at an Annual General Meeting or other General Meeting.
 
@@ -513,13 +554,13 @@ Vacancies and Dismissals
 
    7. is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months. 
 
-3. A dismissal complaint concerning an Executive Member may be made by any Executive Member to the first Executive Member not involved with the complaint in the following list: the Co-Presidents, Treasurer, and the Secretary. A vote of no confidence can be held against the Executive Member concerned if either of the following party unanimously decides to deal with the dismissal complaint: 
+3. A dismissal complaint concerning an Executive Member may be made by any Executive Member to the first Executive Member not involved with the complaint in the following list: the Co-Presidents, Treasurer, and the Secretary. A vote of no confidence can be held against the Executive Member concerned if either of the following parties unanimously decides to deal with the dismissal complaint: 
 
    1. no less than half of all current Executive Members; or 
 
    2. no less than 3 Executive Members among the Co-Presidents, Treasurer, and Secretary. 
 
-4. A vote of no confidence will be held automatically against any Executive Member who cannot show that they have attended any events or Executive meetings of the Society in the past 2 month. 
+4. A vote of no confidence will be held automatically against any Executive Member who cannot show that they have attended any events or Executive meetings of the Society in the past 2 months. 
 
 5. The Executive Member under scrutiny must be given at least 7 clear days notice about the reasons for accepting the dismissal complaint against them, the time and location where the vote of no confidence will be held, and allowed for reasonable right of reply before the vote of no confidence is held.
 
@@ -551,7 +592,7 @@ Assets and Finances
 
    2. a University finance statement. 
 
-5. The Society is not for profit, meaning the assets and fund of the Society will be applied solely in furtherance of the aims of the Society and no portion of those fund may be distributed directly or indirectly to the members of the Society except as bona fide compensation for documented out-of-pocket expenses incurred on behalf of the Society. 
+5. The Society is not for profit, meaning the assets and funds of the Society will be applied solely in furtherance of the aims of the Society and no portion of those funds may be distributed directly or indirectly to the members of the Society except as bona fide compensation for documented out-of-pocket expenses incurred on behalf of the Society. 
 
 6. The financial year of the Society will run from 1 July to 30 June of the following year. 
 
