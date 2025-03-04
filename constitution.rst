@@ -124,11 +124,13 @@ The Executive
       2. Two additional Industry Liaisons
       3. An additional Technology Events Coordinator 
       4. Two additional Development Leads
-      5. An Undergraduate Representative
-      6. A Postgraduate Representative
-      7. A First Year Representative
-      8. An International Student Representative
-      9. A Diversity Representative
+      5. An additional Design Director
+      6. An additional Marketing Director
+      7. An Undergraduate Representative
+      8. A Postgraduate Representative
+      9. A First Year Representative
+      10. An International Student Representative
+      11. A Diversity Representative
 
 2. Subject to the ACNC Governance Standards, there will be a subset of the Executive that will serve as the official committee of Responsible Persons governing the Society in its capacity as a charity organisation, comprising of:
 
