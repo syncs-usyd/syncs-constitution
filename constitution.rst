@@ -644,18 +644,17 @@ Reporting and Recognition
 
 This Constitution was adopted on the 5th day of October, 2022.
 
-President's Signature
+Co - President's Signatures
 
 .. raw:: latex
 
   \vspace{24pt}
 
-Sonia Kang
+Maurice Lam, Cohen Rinas
 
 Secretary's Signature
 
 .. raw:: latex
 
   \vspace{24pt}
-
-Steven Huang
+Cherry Fan
