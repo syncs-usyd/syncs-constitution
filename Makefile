@@ -5,7 +5,7 @@ constitution.pdf: constitution.tex
 	latexmk -xelatex $^
 
 constitution.tex: constitution.rst docutils.conf
-	$(RST2XETEX) $(RST2XETEX_OPTS) $^ > $@
+	$(RST2XETEX) $(RST2XETEX_OPTS) --config=$(word 2,$^) $< > $@
 
 clean:
 	rm -f constitution.pdf constitution.tex
