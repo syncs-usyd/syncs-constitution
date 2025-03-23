@@ -8,7 +8,7 @@ Constitution of the Sydney Computing Society (SYNCS)
 .. sectnum::
 
 .. raw:: latex
-
+  \usepackage{fancyhdr}
   \pagebreak
 
   \fancyhead{} % reset
@@ -642,15 +642,19 @@ Reporting and Recognition
 
 2. The Society must comply with all requirements of the University of Sydney Act 1989, the Student Association Policy 2020 and Student Association Procedures 2021 of the University for recognition as a student society affiliated with the University under the supervision of an establishing authority of the University. 
 
-This Constitution was adopted on the 5th day of October, 2022.
+This Constitution was adopted on the 4th day of March, 2025.
 
-President's Signature
+Co - President's Signatures
 
 .. raw:: latex
 
   \vspace{24pt}
 
-Sonia Kang
+Maurice Lam, Cohen Rinas
+
+
+
+
 
 Secretary's Signature
 
@@ -658,4 +662,4 @@ Secretary's Signature
 
   \vspace{24pt}
 
-Steven Huang
+Cherry Fan
