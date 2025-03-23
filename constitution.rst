@@ -8,7 +8,7 @@ Constitution of the Sydney Computing Society (SYNCS)
 .. sectnum::
 
 .. raw:: latex
-
+  \usepackage{fancyhdr}
   \pagebreak
 
   \fancyhead{} % reset
