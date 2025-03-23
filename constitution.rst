@@ -642,7 +642,7 @@ Reporting and Recognition
 
 2. The Society must comply with all requirements of the University of Sydney Act 1989, the Student Association Policy 2020 and Student Association Procedures 2021 of the University for recognition as a student society affiliated with the University under the supervision of an establishing authority of the University. 
 
-This Constitution was adopted on the 5th day of October, 2022.
+This Constitution was adopted on the 4th day of March, 2025.
 
 Co - President's Signatures
 
@@ -652,10 +652,14 @@ Co - President's Signatures
 
 Maurice Lam, Cohen Rinas
 
+
+
+
+
 Secretary's Signature
 
 .. raw:: latex
 
   \vspace{24pt}
-  
+
 Cherry Fan
