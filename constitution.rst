@@ -117,8 +117,9 @@ The Executive
    6. A Marketing Director
    7. An Industry Liaison
    8. A Development Lead
-   9. A Technology Events Coordinator; and
-   10. Up to a further ten Executive Members, comprising:
+   9. A Technology Events Coordinator
+   10. A Competition Events Coordinator; and
+   11. Up to a further ten Executive Members, comprising:
 
       1. An additional Social Events Coordinator
       2. Two additional Industry Liaisons
@@ -126,11 +127,12 @@ The Executive
       4. Two additional Development Leads
       5. An additional Design Director
       6. An additional Marketing Director
-      7. An Undergraduate Representative
-      8. A Postgraduate Representative
-      9. A First Year Representative
-      10. An International Student Representative
-      11. A Diversity Representative
+      7. Two additional Competition Events Coordinators
+      8. An Undergraduate Representative
+      9. A Postgraduate Representative
+      10. A First Year Representative
+      11. An International Student Representative
+      12. A Diversity Representative
 
 2. Subject to the ACNC Governance Standards, there will be a subset of the Executive that will serve as the official committee of Responsible Persons governing the Society in its capacity as a charity organisation, comprising of:
 
@@ -242,7 +244,13 @@ Duties of Executive Members
 
    2. coordinate activities with the Social Events Coordinator(s), Design Director, Marketing Director and Industry Liaison(s) to promote member participation in technical activities of the Society. 
 
-10. The Undergraduate Representative will: 
+10. The Competition Events Coordinator(s) will: 
+
+   1. plan, organize and supervise competitions of the Society, including but not limited to programming competitions and capture the flag; and
+
+   2. coordinate activities with the other Executive Members to promote member participation in competitions of the Society.
+
+11. The Undergraduate Representative will: 
 
    1. facilitate communication between the undergraduate students and staff of the School of Computer Science of the University, and the Society; 
 
@@ -250,31 +258,31 @@ Duties of Executive Members
 
    3. coordinate the organisation of room booking and helpers for the regular programming help desk event of the Society. 
 
-11. The Postgraduate Representative will: 
+12. The Postgraduate Representative will: 
 
    1. facilitate communication between the postgraduate students and staff of the School of Computer Science of the University, and the Society; and 
 
    2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Design Director, Marketing Director and other student representatives of the Society to promote student participation in Society activities. 
 
-12. The First Year Representative will: 
+13. The First Year Representative will: 
 
    1. facilitate communication between the first year students and staff of the School of Computer Science of the University, and the Society; and 
 
    2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Design Director, Marketing Director and other student representatives of the Society to promote student participation in Society activities. 
 
-13. The International Student Representative will: 
+14. The International Student Representative will: 
 
    1. facilitate communication between the international students and staff of the School of Computer Science of the University, and the Society; and 
 
    2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Design Director, Marketing Director and other student representatives of the Society to promote student participation in Society activities. 
 
-14. The Diversity Representative will: 
+15. The Diversity Representative will: 
 
    1. facilitate communication between members from diverse groups, the staff of the School of Computer Science of the University, and the Society; and 
 
    2. coordinate activities with the Social Events Coordinator(s), Technology Events Coordinator(s), Design Director, Marketing Director and other student representatives of the Society to promote student participation in Society activities. 
 
-15. The Executive, subject to this Constitution, must not engage in conduct that may reasonably be deemed destructive to the Society. All Executive Members of the Society are subject to the following conditions: 
+16. The Executive, subject to this Constitution, must not engage in conduct that may reasonably be deemed destructive to the Society. All Executive Members of the Society are subject to the following conditions: 
 
    1. when Executive Members are participating, observing, or otherwise present at a public event, they are representing the Society and must act in a respectful manner throughout the entire event; 
 
@@ -642,7 +650,7 @@ Reporting and Recognition
 
 2. The Society must comply with all requirements of the University of Sydney Act 1989, the Student Association Policy 2020 and Student Association Procedures 2021 of the University for recognition as a student society affiliated with the University under the supervision of an establishing authority of the University. 
 
-This Constitution was adopted on the 4th day of March, 2025.
+This Constitution was adopted on the 25th day of March, 2026.
 
 Co - President's Signatures
 
@@ -650,7 +658,7 @@ Co - President's Signatures
 
   \vspace{24pt}
 
-Maurice Lam, Cohen Rinas
+Tim Wang, Jeffery Liang
 
 
 
@@ -662,4 +670,4 @@ Secretary's Signature
 
   \vspace{24pt}
 
-Cherry Fan
+Robin Chen
