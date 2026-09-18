@@ -119,9 +119,9 @@ The Executive
    8. A Development Lead
    9. A Technology Events Coordinator
    10. A Competition Events Coordinator; and
-   11. Up to a further ten Executive Members, comprising:
+   11. Up to a further sixteen Executive Members, comprising:
 
-      1. An additional Social Events Coordinator
+      1. Two additional Social Events Coordinators
       2. Two additional Industry Liaisons
       3. An additional Technology Events Coordinator 
       4. Two additional Development Leads
@@ -501,9 +501,11 @@ Elections
 
    4. be an international student of the University to be eligible to be a candidate for the International Student Representative; and 
 
-   5. have held ordinary membership of the Society for at least sixteen (16) clear days prior to the elections to be eligible to be a candidate for any Executive positions and hold one vote at the elections. 
+   5. have served as a member of the Executive for a cumulative period of at least one (1) year prior to the date of the election to be eligible to be a candidate for the office of Co-President, Treasurer, or Secretary. 
 
-   6. expect to be enrolled at the University for the entire length of the term of their nominated position to be an eligible candidate for Executive Membership.
+   6. have held ordinary membership of the Society for at least sixteen (16) clear days prior to the elections to be eligible to be a candidate for any Executive positions and hold one vote at the elections. 
+
+   7. expect to be enrolled at the University for the entire length of the term of their nominated position to be an eligible candidate for Executive Membership.
 
 4. Nominations of candidates for the Executive position(s): 
 
@@ -650,7 +652,7 @@ Reporting and Recognition
 
 2. The Society must comply with all requirements of the University of Sydney Act 1989, the Student Association Policy 2020 and Student Association Procedures 2021 of the University for recognition as a student society affiliated with the University under the supervision of an establishing authority of the University. 
 
-This Constitution was adopted on the 25th day of March, 2026.
+This Constitution was adopted on the 9th day of September, 2026.
 
 Co - President's Signatures
 
